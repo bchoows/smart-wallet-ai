@@ -1,13 +1,3 @@
----
-title: Smart Wallet AI
-emoji: 🤖
-colorFrom: indigo
-colorTo: green
-sdk: docker
-app_file: streamlit_app.py
-pinned: false
----
-
 # 🤖 Smart Wallet AI Transaction Classifier
 
 This project is a complete, end-to-end AI system designed to automatically classify financial transactions into categories such as `Food & Drink`, `Shopping`, and `Transport`. It features a machine learning backend with multiple specialist models, a smart tagging system, and a live, interactive web interface.
@@ -25,8 +15,8 @@ This project is a complete, end-to-end AI system designed to automatically class
 You can test the live application here:
 **https://huggingface.co/spaces/bchoows/smart-wallet-ai**
 
-![Smart Wallet App Demo]([LINK TO YOUR SCREENSHOT])
-*(**To add a screenshot:** Upload an image to your GitHub repo, click on it to get the URL, and paste that URL in place of this text.)*
+![Smart Wallet App Demo](images/local_screenshot.png)
+*(https://github.com/bchoows/smart-wallet-ai/blob/main/images/classification_report.png)*
 
 ---
 
@@ -41,7 +31,7 @@ The model was trained on a mock dataset of 2000 transactions, generated using a 
 The models were trained using a Logistic Regression classifier. The primary `combined` model achieved an overall accuracy of **99%** on the unseen test set.
 
 **Classification Report (Combined Model):**
-[IMAGE LINK]
+![Classification Report](images/classification_report.png)
 
 ---
 
