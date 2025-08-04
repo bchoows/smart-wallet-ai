@@ -1,0 +1,19 @@
+# Build-time dependencies first
+numpy
+cython
+
+# Core ML and data libraries
+scikit-learn
+pandas
+scipy
+joblib
+spacy
+
+# Web application libraries
+fastapi
+uvicorn
+streamlit
+requests
+
+# spaCy model
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl

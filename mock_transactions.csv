@@ -1,0 +1,2001 @@
+timestamp,amount,merchant,description,category
+2024-10-26 17:07:03.762619,6116.96,Courts Mammoth,Skincare haul,Shopping
+2024-08-30 08:27:05.875229,95.84,Naiise,Lunch with colleagues,Food & Drink
+2024-09-04 07:42:21.535468,27.17,AirAsia Ride,Bus fare,Transport
+2025-06-07 09:01:04.006071,262.96,Celcom,Mobile postpaid,Bills & Utilities
+2025-05-24 22:18:42.114135,337.51,PlayStation Store,Online game purchase,Entertainment
+2025-04-19 08:04:46.510093,103.86,GoCar,Fuel top-up,Transport
+2025-03-22 04:58:56.367597,183.67,iCare Dental,Annual health check,Health
+2025-03-30 11:31:56.435380,521.72,Sunway Lagoon,Family outing,Entertainment
+2025-02-04 03:17:42.212260,2720.72,IKEA,Online order,Shopping
+2025-02-05 22:45:33.271350,55.87,Audible,Music streaming,Bills & Utilities
+2024-11-28 22:47:37.989797,147.39,Domino's Pizza,Supper,Food & Drink
+2024-08-07 05:52:41.425982,386.12,Unifi,Water bill,Bills & Utilities
+2024-12-05 21:19:31.880010,121.5,Zus Coffee,Business lunch,Food & Drink
+2024-09-17 16:48:26.403625,87.47,KLIA Ekspres,Airport transfer,Transport
+2025-03-21 09:24:40.864599,439.39,Guardian,Vitamins purchase,Health
+2025-05-02 12:15:40.290651,32.27,Shell,Car rental,Transport
+2024-08-09 01:29:56.608970,244.19,Village Grocer,Buying snacks,Groceries
+2024-10-26 19:33:53.709065,311.43,GSC Cinemas,In-game purchase,Entertainment
+2025-05-03 22:41:37.100291,123.8,Steam Games,Concert tickets,Entertainment
+2024-09-06 13:16:53.479801,251.65,Netflix,Monthly subscription,Bills & Utilities
+2025-02-06 16:30:29.299831,283.01,TIME Internet,Streaming service,Bills & Utilities
+2025-01-16 18:55:09.441965,130.93,Klinik Mediviron,Specialist consultation,Health
+2025-04-06 03:50:01.934541,208.51,Cold Storage,Fresh produce,Groceries
+2024-12-12 22:36:19.773339,116.52,GoCar,Toll payment,Transport
+2025-06-12 13:58:50.354432,89.68,Pantai Hospital,Prescription medicine,Health
+2025-05-27 08:00:39.244036,149.55,McDonald's,Healthy smoothie,Food & Drink
+2024-08-27 05:25:08.424127,37.62,McDonald's,Dessert,Food & Drink
+2024-12-17 18:36:53.547071,40.46,KLIA Ekspres,E-hailing service,Transport
+2024-08-07 02:20:06.254350,35.09,McDonald's,Quick bite,Food & Drink
+2024-08-22 17:43:37.978784,5791.5,Shopee,Fashion accessories,Shopping
+2025-06-08 18:50:06.312770,62.84,Starbucks,Coffee meeting,Food & Drink
+2025-01-05 13:48:50.021011,372.24,Redbox Karaoke,Family outing,Entertainment
+2025-02-15 11:39:05.215411,742.61,Fitness First,Dental check-up,Health
+2024-08-19 04:04:47.335757,67.78,Touch 'n Go eWallet,Bus fare,Transport
+2025-03-06 19:06:06.217494,653.02,Guardian,Dental check-up,Health
+2025-03-15 09:22:37.518927,670.43,Sunway Medical Centre,Vitamins purchase,Health
+2024-12-21 22:43:17.192701,63.69,Waze,Fuel top-up,Transport
+2025-06-28 20:58:18.233291,111.9,Waze,Toll payment,Transport
+2025-03-06 21:29:54.005225,337.62,Genting SkyWorlds,In-game purchase,Entertainment
+2024-10-30 23:56:12.890079,249.07,PlayStation Store,Theme park tickets,Entertainment
+2024-12-11 04:01:46.235880,8106.64,Decathlon,New clothes,Shopping
+2025-07-11 13:11:36.616136,143.25,Boost Juice,Coffee meeting,Food & Drink
+2025-06-24 17:21:47.800626,67.99,Grab,Ride to work,Transport
+2024-08-28 12:37:19.894959,124.52,The Alley,Lunch with colleagues,Food & Drink
+2024-08-19 08:10:44.945616,207.27,GSC Cinemas,In-game purchase,Entertainment
+2024-12-26 07:28:30.896166,133.26,Audible,Monthly subscription,Bills & Utilities
+2025-04-11 04:14:02.551539,191.47,Redbox Karaoke,Online game purchase,Entertainment
+2025-01-05 10:04:08.079119,6338.02,Sunway Pyramid,Sporting goods,Shopping
+2025-02-26 15:47:04.984303,396.45,Audible,Audiobook credit,Bills & Utilities
+2024-10-20 04:23:00.040376,578.75,Watsons,Health screening,Health
+2024-08-06 23:03:19.172363,98.31,Touch 'n Go eWallet,Airport commute,Transport
+2024-09-28 13:20:28.596084,74.25,Tealive,Morning coffee,Food & Drink
+2025-01-08 07:17:15.278731,396.66,Astro,Internet bill,Bills & Utilities
+2025-04-02 11:32:44.926458,579.58,GSC Cinemas,Concert tickets,Entertainment
+2024-12-08 00:13:56.354948,232.38,Cold Storage,Toiletries,Groceries
+2025-05-24 23:06:33.494521,188.33,Econsave,Household items,Groceries
+2025-04-14 14:44:18.306086,39.47,PappaRich,Supper,Food & Drink
+2024-10-11 03:55:07.196136,49.13,Gong Cha,Quick bite,Food & Drink
+2024-10-27 04:49:57.918082,537.39,Caring Pharmacy,Annual health check,Health
+2025-07-14 04:09:03.893493,658.79,Klinik Mediviron,Health screening,Health
+2024-12-18 21:06:35.334756,53.7,KLIA Ekspres,Road trip fuel,Transport
+2024-08-17 13:34:23.957334,53.83,myNEWS,Toiletries,Groceries
+2025-02-17 19:48:02.370963,9706.39,Courts Mammoth,Book purchase,Shopping
+2024-10-24 04:59:55.984918,30.71,Jaya Grocer,Restocking pantry,Groceries
+2025-02-23 20:59:05.215761,18.09,Spotify,Mobile postpaid,Bills & Utilities
+2024-09-12 23:12:11.763935,155.65,Checkers Hypermarket,Bulk buying,Groceries
+2025-01-30 18:56:07.026145,592.78,Watsons,Over-the-counter meds,Health
+2025-02-18 11:20:03.841957,8.31,SOCAR,E-hailing service,Transport
+2024-09-13 08:13:16.403908,535.74,TGV Cinemas,Magazine subscription,Entertainment
+2025-06-14 07:05:26.212736,493.39,KidZania,Family outing,Entertainment
+2025-04-19 18:18:42.132209,97.36,Subway,Team lunch,Food & Drink
+2024-08-31 08:48:28.732749,110.74,Village Grocer,Household items,Groceries
+2025-02-11 12:49:28.548007,858.73,BookXcess,Skincare haul,Shopping
+2025-04-06 08:42:46.554505,723.93,Fitness First,Annual health check,Health
+2025-06-27 08:31:38.992010,24.02,Sunway Medical Centre,Skincare products,Health
+2024-11-04 01:31:55.007025,658.12,Anytime Fitness,Annual health check,Health
+2024-09-29 15:47:47.925342,251.79,Watsons,Dental check-up,Health
+2025-04-29 17:50:41.856061,35.05,PlayStation Store,Live event,Entertainment
+2025-03-24 02:05:49.543674,40.87,MRT,E-hailing service,Transport
+2024-09-24 11:33:44.664405,12.79,MyCar,Parking fee,Transport
+2024-11-26 11:52:17.904498,363.45,BMS Organics,Bulk buying,Groceries
+2025-03-23 05:25:04.580064,797.18,Pantai Hospital,Vitamins purchase,Health
+2025-06-28 10:00:51.294065,37.57,99 Speedmart,Buying snacks,Groceries
+2025-04-14 00:23:18.883627,9440.57,Shopee,Gift for friend,Shopping
+2025-02-16 22:45:49.864844,410.15,Tenaga Nasional,Phone bill,Bills & Utilities
+2025-05-24 00:54:00.641732,7138.88,Shopee,New clothes,Shopping
+2024-10-15 12:08:38.575834,236.02,Ticketmaster,Concert tickets,Entertainment
+2025-06-02 12:20:10.819434,7190.46,Shopee,Furniture purchase,Shopping
+2025-07-06 21:49:14.916052,39.06,AirAsia Ride,Airport transfer,Transport
+2025-03-06 07:35:16.553758,82.18,Redbox Karaoke,Movie tickets,Entertainment
+2025-06-11 00:48:22.181144,449.23,Sunway Medical Centre,Skincare products,Health
+2024-08-24 23:50:06.219436,780.07,Caring Pharmacy,Specialist consultation,Health
+2025-02-19 19:09:01.853187,74.65,FamilyMart,Dinner takeout,Food & Drink
+2025-02-23 21:52:37.138150,67.48,Genting SkyWorlds,Concert tickets,Entertainment
+2025-06-08 03:39:38.931193,453.82,Maxis,Cloud storage fee,Bills & Utilities
+2024-12-07 22:42:44.187705,32.93,Boost Juice,Morning coffee,Food & Drink
+2024-09-22 00:44:57.122008,156.11,BIG Pharmacy,Dental check-up,Health
+2024-09-22 08:32:28.195558,1595.64,Uniqlo,Skincare haul,Shopping
+2025-06-12 17:17:45.046432,339.22,Checkers Hypermarket,Household items,Groceries
+2025-06-22 07:28:21.802704,93.08,Caltex,Car rental,Transport
+2025-03-29 13:26:23.170257,268.82,GSC Cinemas,Video game subscription,Entertainment
+2025-04-06 16:15:59.023063,64.03,Touch 'n Go eWallet,Train ticket,Transport
+2025-06-02 20:14:46.209601,222.03,Cold Storage,Buying snacks,Groceries
+2025-05-27 10:45:10.707082,579.43,Steam Games,Family outing,Entertainment
+2025-07-12 07:59:28.550974,63.74,YouTube Premium,Sewerage bill,Bills & Utilities
+2025-06-21 02:55:54.131908,66.05,Secret Recipe,Lunch with colleagues,Food & Drink
+2024-09-20 16:31:14.570829,67.39,Petronas,Public transport pass,Transport
+2024-10-21 00:28:37.326980,8718.88,Lazada,Appliance upgrade,Shopping
+2025-01-05 06:46:44.485941,38.3,Tenaga Nasional,Streaming service,Bills & Utilities
+2024-09-24 16:27:04.740447,462.52,Sephora,New clothes,Shopping
+2024-12-02 06:23:29.753371,110.86,Petronas,Car rental,Transport
+2025-01-21 01:26:46.749255,118.31,Alpro Pharmacy,Skincare products,Health
+2025-01-26 02:37:43.704895,1733.98,Kinokuniya,Online order,Shopping
+2024-08-17 22:08:57.776171,7099.0,Mid Valley Megamall,Fashion accessories,Shopping
+2024-10-30 06:55:17.661737,41.08,GoCar,Public transport pass,Transport
+2024-12-11 00:35:31.500221,7246.57,Shopee,Electronics purchase,Shopping
+2025-01-04 20:55:52.076211,104.29,Checkers Hypermarket,Buying snacks,Groceries
+2025-04-26 00:49:01.312437,508.71,Redbox Karaoke,Magazine subscription,Entertainment
+2024-11-24 23:30:09.913259,100.35,Spotify,Gas bill,Bills & Utilities
+2025-05-30 03:31:31.772410,750.09,BIG Pharmacy,Specialist consultation,Health
+2025-07-08 13:35:27.407052,203.1,TGV Cinemas,Video game subscription,Entertainment
+2024-10-27 19:30:55.103572,234.07,Sunway Lagoon,Video game subscription,Entertainment
+2025-04-04 10:15:36.236649,205.7,Sunway Lagoon,Theme park tickets,Entertainment
+2025-01-03 11:26:10.943233,218.41,KidZania,Video game subscription,Entertainment
+2025-04-14 09:13:48.970629,450.66,Steam Games,Online game purchase,Entertainment
+2025-02-07 12:39:01.109214,146.75,Domino's Pizza,Morning coffee,Food & Drink
+2025-03-26 02:51:52.099641,143.48,iCare Dental,Skincare products,Health
+2025-07-12 10:08:51.456759,149.43,Tenaga Nasional,Cloud storage fee,Bills & Utilities
+2025-03-17 03:58:50.764675,590.45,Watsons,Over-the-counter meds,Health
+2024-11-18 23:05:32.880230,412.71,Redbox Karaoke,Video game subscription,Entertainment
+2025-08-03 10:12:48.487604,3829.03,H&M,Electronics purchase,Shopping
+2025-06-27 01:45:44.470895,154.02,Alpro Pharmacy,Doctor's visit,Health
+2025-05-08 09:45:51.716850,47.27,Steam Games,Family outing,Entertainment
+2025-03-24 05:26:01.843074,439.03,KidZania,In-game purchase,Entertainment
+2025-01-27 18:09:25.409043,289.93,Anytime Fitness,Over-the-counter meds,Health
+2024-09-19 07:46:09.785670,46.95,GrabCar,Bus fare,Transport
+2024-09-08 04:32:22.287899,40.26,KFC,Lunch with colleagues,Food & Drink
+2025-01-20 23:27:54.600392,211.98,Astro,Monthly subscription,Bills & Utilities
+2024-08-04 15:51:35.012484,5178.75,Lazada,Fashion accessories,Shopping
+2024-11-26 04:13:19.315151,92.23,Burger King,Business lunch,Food & Drink
+2024-12-24 19:28:39.382327,47.82,Checkers Hypermarket,Weekly groceries,Groceries
+2024-08-31 05:42:04.122914,178.92,YouTube Premium,Cable TV subscription,Bills & Utilities
+2024-09-12 22:38:24.981053,658.14,BIG Pharmacy,Dental check-up,Health
+2024-09-08 17:13:47.941885,508.31,PlayStation Store,Karaoke session,Entertainment
+2025-03-05 14:06:01.567429,99.13,Domino's Pizza,Morning coffee,Food & Drink
+2024-11-06 09:58:18.018462,29.56,YouTube Premium,Electricity bill,Bills & Utilities
+2025-07-10 23:39:36.522949,233.85,KidZania,Theme park tickets,Entertainment
+2025-02-21 17:02:02.752676,397.85,BMS Organics,Restocking pantry,Groceries
+2025-04-01 15:33:11.959880,132.32,Giant,Beverages and snacks,Groceries
+2025-08-01 21:57:54.991707,89.62,Pizza Hut,Boba tea,Food & Drink
+2025-02-28 11:21:52.841122,693.36,BIG Pharmacy,Specialist consultation,Health
+2024-09-28 06:50:08.347215,286.23,BMS Organics,Organic food purchase,Groceries
+2025-06-30 17:25:30.570195,8064.49,Sunway Pyramid,Gift for friend,Shopping
+2024-08-18 19:39:57.434996,224.64,Lotus's,Household items,Groceries
+2025-05-25 23:19:59.387225,72.97,Starbucks,Healthy smoothie,Food & Drink
+2024-09-20 18:10:35.181440,438.28,Unifi,Phone bill,Bills & Utilities
+2025-02-03 11:36:28.355757,255.88,Giant,Weekly groceries,Groceries
+2025-01-12 21:31:37.396071,224.62,Netflix,Gas bill,Bills & Utilities
+2025-06-02 18:58:57.945530,74.93,Sunway Medical Centre,Skincare products,Health
+2025-06-24 08:04:46.651960,519.14,BIG Pharmacy,Prescription medicine,Health
+2025-05-09 10:24:28.219858,126.66,Giant,Beverages and snacks,Groceries
+2025-06-30 14:29:24.316120,120.95,Gong Cha,Supper,Food & Drink
+2025-07-14 05:28:36.483434,336.68,Indah Water Konsortium,Cable TV subscription,Bills & Utilities
+2025-07-25 17:37:33.691237,417.31,Mr. D.I.Y.,Gift for friend,Shopping
+2024-11-04 20:55:23.660347,112.93,Genting SkyWorlds,Weekend movie,Entertainment
+2025-06-05 00:56:08.914087,8971.82,Shopee,Stationery supplies,Shopping
+2024-10-31 06:49:16.809925,62.78,Mamak ABC,Coffee meeting,Food & Drink
+2025-06-17 22:14:24.629641,94.42,GSC Cinemas,Karaoke session,Entertainment
+2025-04-07 11:12:49.685652,87.51,The Alley,Coffee meeting,Food & Drink
+2025-07-17 06:35:10.392486,438.82,Unifi,Electricity bill,Bills & Utilities
+2025-06-22 01:42:50.270870,41.51,LRT Kelana Jaya,Toll payment,Transport
+2025-03-31 02:38:35.254196,33.49,FamilyMart,Lunch with colleagues,Food & Drink
+2024-10-11 05:00:05.708744,194.14,Maxis,Electricity bill,Bills & Utilities
+2025-06-07 22:52:11.718242,222.83,Lotus's,Restocking pantry,Groceries
+2024-08-09 11:30:18.280424,158.7,Pantai Hospital,Gym membership,Health
+2025-01-04 04:10:38.075870,331.39,myNEWS,Beverages and snacks,Groceries
+2025-06-18 00:38:16.653442,394.65,NSK Trade City,Buying snacks,Groceries
+2025-02-27 11:44:53.756344,47.58,Waze,Fuel top-up,Transport
+2024-09-26 05:06:00.504179,72.03,Touch 'n Go eWallet,E-hailing service,Transport
+2024-11-26 17:56:38.263479,118.12,KFC,Coffee meeting,Food & Drink
+2024-09-09 18:39:31.171807,146.31,PappaRich,Dessert,Food & Drink
+2024-12-10 09:05:58.672213,18.01,The Alley,Quick bite,Food & Drink
+2025-04-12 15:38:21.180684,445.15,Uniqlo,Furniture purchase,Shopping
+2024-12-24 23:55:03.980530,326.23,Netflix,Cable TV subscription,Bills & Utilities
+2025-04-13 20:10:25.855053,434.54,Tenaga Nasional,Water bill,Bills & Utilities
+2025-04-30 04:09:33.035449,367.84,Celcom,Gas bill,Bills & Utilities
+2025-04-30 08:13:06.188565,22.63,Caltex,Airport transfer,Transport
+2025-04-09 16:09:13.857325,228.18,Anytime Fitness,Specialist consultation,Health
+2025-04-22 04:48:11.135403,393.92,Jaya Grocer,Dairy and eggs,Groceries
+2025-07-23 03:09:26.038848,9.16,Starbucks,Lunch with colleagues,Food & Drink
+2025-02-04 15:04:03.750170,206.67,Maxis,Music streaming,Bills & Utilities
+2025-06-25 09:34:01.553660,662.68,Sunway Medical Centre,Specialist consultation,Health
+2025-01-10 04:02:03.498286,342.86,Tenaga Nasional,Monthly subscription,Bills & Utilities
+2025-07-16 17:55:22.267771,4403.3,BookXcess,New clothes,Shopping
+2025-03-27 18:22:24.405757,416.94,BIG Pharmacy,Health screening,Health
+2024-09-27 20:49:57.810140,47.53,PappaRich,Quick bite,Food & Drink
+2025-02-18 01:36:54.844537,827.09,BookXcess,Gift for friend,Shopping
+2025-04-01 14:47:04.693665,273.37,Cold Storage,Baking supplies,Groceries
+2025-05-24 06:18:18.122662,318.49,Jaya Grocer,Beverages and snacks,Groceries
+2025-01-16 09:07:42.259278,23.7,Zus Coffee,Morning coffee,Food & Drink
+2024-09-26 12:18:36.440893,23.66,Waze,Parking fee,Transport
+2025-01-23 02:11:10.981310,499.45,Guardian,First aid supplies,Health
+2025-01-28 22:05:57.122543,184.9,Checkers Hypermarket,Dairy and eggs,Groceries
+2025-01-28 08:15:42.166739,82.48,PappaRich,Lunch with colleagues,Food & Drink
+2025-06-20 05:51:44.467396,63.51,Pizza Hut,Lunch with colleagues,Food & Drink
+2025-07-23 12:02:13.444363,484.52,Redbox Karaoke,Online game purchase,Entertainment
+2024-09-03 06:40:27.700051,14.31,Cold Storage,Dairy and eggs,Groceries
+2025-01-17 23:12:39.988628,7258.67,Courts Mammoth,Stationery supplies,Shopping
+2025-06-06 02:25:37.258591,3640.74,Harvey Norman,Sporting goods,Shopping
+2025-02-16 22:03:18.977019,90.36,SOCAR,Ride to work,Transport
+2025-07-06 11:32:32.027300,142.52,Checkers Hypermarket,Weekly groceries,Groceries
+2025-04-06 20:50:35.452338,38.21,Econsave,Bulk buying,Groceries
+2024-11-06 06:30:38.027146,486.56,Caring Pharmacy,Skincare products,Health
+2025-02-06 22:32:12.142798,57.7,KLIA Ekspres,Train ticket,Transport
+2025-02-09 09:58:31.357898,400.07,Celcom,Cable TV subscription,Bills & Utilities
+2024-08-20 03:06:30.335335,107.9,GrabCar,Parking fee,Transport
+2024-09-08 20:36:27.918441,138.85,Econsave,Fresh produce,Groceries
+2025-02-20 08:22:00.247850,92.09,Waze,Public transport pass,Transport
+2025-04-09 10:17:43.979713,219.52,Disney+ Hotstar,Audiobook credit,Bills & Utilities
+2025-07-21 03:06:27.647033,88.94,KLIA Ekspres,Train ticket,Transport
+2024-11-03 10:59:45.606898,59.66,Caltex,Road trip fuel,Transport
+2025-03-14 12:13:44.199568,109.31,OldTown White Coffee,Healthy smoothie,Food & Drink
+2024-11-05 05:06:21.743330,4568.48,Zalora,Book purchase,Shopping
+2025-02-04 14:57:22.465382,145.28,Subway,Boba tea,Food & Drink
+2024-09-14 10:25:34.148666,42.74,Secret Recipe,Lunch with colleagues,Food & Drink
+2024-12-17 23:39:41.117560,140.15,Guardian,Dental check-up,Health
+2025-01-04 23:44:42.103451,4677.5,Lazada,Gift for friend,Shopping
+2024-10-14 10:42:11.648160,8802.03,Harvey Norman,Stationery supplies,Shopping
+2025-04-13 03:32:23.915021,366.83,Klinik Mediviron,Vitamins purchase,Health
+2025-03-14 16:32:28.592406,8358.08,Sunway Pyramid,Home decor,Shopping
+2024-11-20 23:19:03.428787,37.3,KidZania,Theme park tickets,Entertainment
+2025-03-10 21:58:57.540846,581.1,Guardian,First aid supplies,Health
+2024-10-07 03:06:42.578049,338.98,Steam Games,Live event,Entertainment
+2025-03-17 01:52:26.175149,384.36,Pantai Hospital,Dental check-up,Health
+2024-11-22 15:03:37.197333,303.71,TIME Internet,Water bill,Bills & Utilities
+2025-02-27 00:49:15.107559,133.01,Anytime Fitness,Prescription medicine,Health
+2025-05-19 13:47:06.932374,386.66,Fitness First,Dental check-up,Health
+2025-07-10 03:35:48.445163,301.27,TIME Internet,Music streaming,Bills & Utilities
+2024-08-24 15:18:50.483139,24.34,Chatime,Boba tea,Food & Drink
+2025-06-01 06:36:57.808965,49.58,Subway,Boba tea,Food & Drink
+2025-04-16 19:04:23.861022,32.5,Setel,Fuel top-up,Transport
+2024-11-05 11:31:41.230269,285.82,myNEWS,Fresh produce,Groceries
+2024-12-23 15:51:16.839748,112.93,Gong Cha,Healthy smoothie,Food & Drink
+2025-04-20 12:55:29.391558,24.27,Domino's Pizza,Team lunch,Food & Drink
+2025-02-17 23:36:21.341870,212.45,Sunway Lagoon,Live event,Entertainment
+2025-01-19 10:47:03.112704,5.65,GoCar,Bus fare,Transport
+2025-05-03 01:05:49.060387,35.35,KLIA Transit,Road trip fuel,Transport
+2025-03-29 04:54:28.904940,124.63,GSC Cinemas,Karaoke session,Entertainment
+2025-06-26 07:26:30.410969,8333.56,BookXcess,Fashion accessories,Shopping
+2025-04-17 23:51:36.257463,7249.62,Popular Bookstore,New clothes,Shopping
+2025-03-10 05:23:54.883487,12.39,Tealive,Coffee meeting,Food & Drink
+2025-03-29 05:58:52.671048,100.25,Boost Juice,Dinner takeout,Food & Drink
+2025-07-08 15:16:35.407949,42.14,Pizza Hut,Quick bite,Food & Drink
+2025-06-22 22:49:29.779864,121.71,Burger King,Team lunch,Food & Drink
+2024-12-21 02:29:59.863846,303.88,Sunway Lagoon,In-game purchase,Entertainment
+2024-10-25 04:17:13.613374,228.72,AEON,Weekly groceries,Groceries
+2025-07-24 19:12:31.622995,208.89,NSK Trade City,Weekly groceries,Groceries
+2024-12-20 20:52:28.173107,116.85,Starbucks,Dessert,Food & Drink
+2024-12-02 20:17:57.306415,489.18,Unifi,Audiobook credit,Bills & Utilities
+2025-02-06 05:27:23.467631,70.34,SOCAR,Train ticket,Transport
+2024-09-04 09:47:20.742761,398.58,Anytime Fitness,Over-the-counter meds,Health
+2024-12-10 12:45:41.427368,11.38,Caltex,Train ticket,Transport
+2025-06-24 15:07:07.776866,181.96,Disney+ Hotstar,Cloud storage fee,Bills & Utilities
+2025-01-04 12:37:59.268993,8.94,GrabCar,Airport transfer,Transport
+2025-02-19 16:42:29.122630,262.36,Maxis,Sewerage bill,Bills & Utilities
+2024-10-02 06:24:59.881918,528.0,Steam Games,Karaoke session,Entertainment
+2025-06-08 07:42:03.189895,276.2,Klinik Mediviron,Health screening,Health
+2025-02-09 11:40:24.119733,227.98,Alpro Pharmacy,Gym membership,Health
+2024-08-20 10:48:08.560851,2670.38,Harvey Norman,Fashion accessories,Shopping
+2025-06-01 22:59:48.376288,5876.45,Sunway Pyramid,Online order,Shopping
+2025-02-03 21:53:09.537498,4031.89,H&M,Book purchase,Shopping
+2025-04-24 08:11:50.249959,316.42,Indah Water Konsortium,Cable TV subscription,Bills & Utilities
+2024-11-07 18:03:09.129346,141.27,KidZania,Live event,Entertainment
+2025-04-14 12:46:39.401079,8955.03,Mr. D.I.Y.,Furniture purchase,Shopping
+2025-05-05 18:15:51.572722,37.91,KLIA Ekspres,Train ticket,Transport
+2024-10-19 01:52:18.477323,5689.06,Kinokuniya,Skincare haul,Shopping
+2025-05-21 23:42:25.644199,229.45,TGV Cinemas,In-game purchase,Entertainment
+2024-11-16 08:39:12.017075,319.94,Alpro Pharmacy,Health screening,Health
+2025-03-30 00:55:57.163847,2375.84,BookXcess,Appliance upgrade,Shopping
+2025-04-07 04:37:14.867616,552.1,Steam Games,Movie tickets,Entertainment
+2025-07-13 09:29:55.567713,124.55,Boost Juice,Morning coffee,Food & Drink
+2025-01-10 19:15:27.692621,216.01,Checkers Hypermarket,Toiletries,Groceries
+2024-11-26 19:28:31.964985,497.51,Netflix,Cloud storage fee,Bills & Utilities
+2024-11-18 23:46:46.923170,85.3,Setel,E-hailing service,Transport
+2025-07-02 03:46:05.483960,194.71,GSC Cinemas,Karaoke session,Entertainment
+2025-03-15 20:24:52.070276,9.45,LRT Kelana Jaya,Fuel top-up,Transport
+2025-03-11 03:48:33.800715,57.4,NSK Trade City,Toiletries,Groceries
+2025-04-25 01:40:14.844190,462.29,Maxis,Music streaming,Bills & Utilities
+2024-10-11 09:30:06.653773,173.32,Unifi,Electricity bill,Bills & Utilities
+2025-01-04 08:43:34.712933,6594.36,Padini,Home decor,Shopping
+2025-05-25 17:20:46.021211,505.83,BIG Pharmacy,Over-the-counter meds,Health
+2025-06-17 08:11:20.187518,145.96,Anytime Fitness,Health screening,Health
+2025-02-23 02:29:02.844191,75.82,Naiise,Lunch with colleagues,Food & Drink
+2025-02-16 04:27:46.033813,277.89,TGV Cinemas,Online game purchase,Entertainment
+2024-11-14 19:02:28.455516,366.62,99 Speedmart,Baking supplies,Groceries
+2024-12-14 01:06:14.752310,2835.3,Lazada,Appliance upgrade,Shopping
+2025-06-02 11:54:56.119013,187.8,Sunway Medical Centre,Gym membership,Health
+2024-10-19 16:52:18.789654,439.44,YouTube Premium,Audiobook credit,Bills & Utilities
+2025-02-06 17:05:50.782049,795.6,Caring Pharmacy,Specialist consultation,Health
+2025-04-17 07:06:13.464142,70.38,Zus Coffee,Lunch with colleagues,Food & Drink
+2024-08-16 17:11:21.227921,398.53,Steam Games,Family outing,Entertainment
+2024-09-28 16:52:55.547505,1014.68,Courts Mammoth,Online order,Shopping
+2025-05-01 11:08:54.560439,57.75,Domino's Pizza,Business lunch,Food & Drink
+2025-03-26 18:46:21.391240,487.29,Air Selangor,Sewerage bill,Bills & Utilities
+2024-09-02 00:56:34.294905,319.04,TIME Internet,Gas bill,Bills & Utilities
+2024-08-18 23:29:34.437427,95.91,KFC,Quick bite,Food & Drink
+2024-10-12 00:19:22.703772,30.82,Petronas,E-hailing service,Transport
+2025-05-16 15:02:50.833979,464.94,Anytime Fitness,Doctor's visit,Health
+2025-06-14 01:12:59.070047,5337.5,Kinokuniya,Home decor,Shopping
+2025-02-17 10:49:37.268380,430.53,KidZania,Concert tickets,Entertainment
+2025-01-24 04:12:16.207137,137.97,iCare Dental,Dental check-up,Health
+2024-11-17 02:47:43.689872,69.38,Shell,Public transport pass,Transport
+2024-09-07 17:56:11.103424,59.91,MyCar,Toll payment,Transport
+2024-08-25 06:51:08.328687,20.8,Starbucks,Quick bite,Food & Drink
+2025-07-23 07:37:26.045094,79.09,Petronas,Public transport pass,Transport
+2024-09-14 02:15:58.529941,488.14,GSC Cinemas,In-game purchase,Entertainment
+2024-11-03 03:57:23.629467,55.59,Jaya Grocer,Buying snacks,Groceries
+2024-08-17 12:47:04.310583,273.78,AEON,Weekly groceries,Groceries
+2025-03-22 01:23:49.805371,394.97,iCare Dental,First aid supplies,Health
+2025-06-16 21:27:23.090307,221.01,Jaya Grocer,Organic food purchase,Groceries
+2025-04-08 18:45:04.188258,343.76,Fitness First,Gym membership,Health
+2024-10-27 18:40:37.756747,278.46,iCare Dental,Dental check-up,Health
+2025-05-13 22:06:52.545074,22.14,Redbox Karaoke,Family outing,Entertainment
+2025-07-26 19:03:28.284609,571.49,Sunway Lagoon,Online game purchase,Entertainment
+2024-11-10 19:27:21.459180,103.04,KLIA Transit,Train ticket,Transport
+2025-02-22 21:36:18.779017,14.8,Village Grocer,Baking supplies,Groceries
+2025-07-21 01:51:11.606461,64.18,Jaya Grocer,Household items,Groceries
+2025-01-26 03:41:12.148319,439.79,Watsons,Prescription medicine,Health
+2024-10-21 16:14:17.031756,254.45,99 Speedmart,Bulk buying,Groceries
+2024-08-20 18:48:58.776383,93.11,MRT,E-hailing service,Transport
+2025-04-21 21:48:25.226593,8297.29,Harvey Norman,Gift for friend,Shopping
+2024-12-06 00:49:34.726869,35.53,Waze,Train ticket,Transport
+2024-12-01 20:55:08.248233,391.28,myNEWS,Weekly groceries,Groceries
+2025-06-13 04:21:51.649597,419.19,TIME Internet,Water bill,Bills & Utilities
+2025-05-05 08:39:29.399098,72.86,The Alley,Morning coffee,Food & Drink
+2025-05-23 22:18:47.617444,4524.9,Zalora,Gadget purchase,Shopping
+2025-04-18 07:26:42.204429,56.74,99 Speedmart,Beverages and snacks,Groceries
+2025-05-23 02:09:21.324944,77.31,Econsave,Toiletries,Groceries
+2025-04-04 21:09:31.826522,61.89,Waze,Airport commute,Transport
+2025-01-23 04:11:14.780096,740.3,Watsons,Skincare products,Health
+2025-06-10 09:45:11.702672,133.9,Chatime,Business lunch,Food & Drink
+2025-06-21 18:24:40.344375,116.27,Astro,Cable TV subscription,Bills & Utilities
+2025-05-04 18:27:16.266840,2777.49,Mr. D.I.Y.,Fashion accessories,Shopping
+2024-10-01 20:10:18.358462,106.17,PlayStation Store,Magazine subscription,Entertainment
+2024-08-27 23:22:03.390686,648.93,BIG Pharmacy,Skincare products,Health
+2025-04-09 17:08:49.234679,134.79,PappaRich,Coffee meeting,Food & Drink
+2025-06-18 07:14:50.112085,64.36,PlayStation Store,Magazine subscription,Entertainment
+2025-01-02 19:21:11.077856,258.7,TGV Cinemas,Karaoke session,Entertainment
+2025-01-09 14:18:00.306037,463.06,Spotify,Sewerage bill,Bills & Utilities
+2024-08-28 16:10:37.301722,107.34,Touch 'n Go eWallet,Bus fare,Transport
+2025-04-16 21:25:31.244029,127.37,McDonald's,Morning coffee,Food & Drink
+2025-05-09 12:39:19.026814,81.62,AirAsia Ride,Car rental,Transport
+2025-06-22 13:26:34.723823,352.53,Pantai Hospital,Annual health check,Health
+2024-10-14 21:34:50.582222,448.14,Astro,Sewerage bill,Bills & Utilities
+2024-10-23 01:26:15.911469,366.49,Lotus's,Bulk buying,Groceries
+2024-11-01 21:12:02.017950,266.0,AEON,Restocking pantry,Groceries
+2025-05-14 03:31:01.547464,42.38,KLIA Ekspres,Parking fee,Transport
+2025-06-11 23:53:21.064832,424.52,Audible,Music streaming,Bills & Utilities
+2025-04-15 10:26:01.728103,340.49,Jaya Grocer,Beverages and snacks,Groceries
+2025-01-31 01:49:30.215930,291.44,Genting SkyWorlds,Magazine subscription,Entertainment
+2025-05-19 03:35:47.816831,12.0,LRT Kelana Jaya,Airport transfer,Transport
+2025-07-21 08:33:05.011101,392.72,TIME Internet,Water bill,Bills & Utilities
+2024-08-18 08:19:13.804907,40.7,Spotify,Audiobook credit,Bills & Utilities
+2025-05-13 13:46:02.852177,56.52,BMS Organics,Household items,Groceries
+2025-06-03 08:57:44.249911,128.27,Steam Games,Online game purchase,Entertainment
+2024-10-16 12:29:52.646538,96.03,Lotus's,Toiletries,Groceries
+2024-09-24 01:20:11.497858,48.35,Zus Coffee,Quick bite,Food & Drink
+2025-08-02 10:50:01.176719,428.34,Watsons,Dental check-up,Health
+2025-01-19 23:23:28.701207,47.61,99 Speedmart,Bulk buying,Groceries
+2024-08-07 03:40:45.046484,7040.06,IKEA,Shopping at mall,Shopping
+2025-02-04 04:43:28.895662,89.35,Petronas,Bus fare,Transport
+2024-11-14 13:43:39.637166,504.71,TGV Cinemas,Family outing,Entertainment
+2025-02-27 11:55:07.637614,403.15,Celcom,Streaming service,Bills & Utilities
+2025-02-19 21:22:29.489762,460.67,Redbox Karaoke,Video game subscription,Entertainment
+2024-10-31 13:16:12.597292,359.45,Jaya Grocer,Bulk buying,Groceries
+2024-09-23 19:00:17.232254,135.2,Courts Mammoth,Gadget purchase,Shopping
+2025-03-05 11:51:27.374228,104.52,BMS Organics,Buying snacks,Groceries
+2025-05-04 15:21:38.707727,48.13,Grab,Airport transfer,Transport
+2025-07-18 02:25:44.475466,146.91,Maxis,Streaming service,Bills & Utilities
+2024-11-02 19:43:27.339136,29.99,Touch 'n Go eWallet,E-hailing service,Transport
+2024-12-08 11:39:02.581855,28.58,Lotus's,Organic food purchase,Groceries
+2024-11-13 04:59:06.109921,5.76,Starbucks,Dinner takeout,Food & Drink
+2025-02-18 12:18:39.843378,289.89,Village Grocer,Fresh produce,Groceries
+2024-10-20 00:49:20.435569,70.47,Touch 'n Go eWallet,Parking fee,Transport
+2025-05-08 23:13:25.752338,404.24,Tenaga Nasional,Sewerage bill,Bills & Utilities
+2025-05-08 02:27:16.212518,36.8,Shell,Fuel top-up,Transport
+2025-05-02 04:05:32.925753,85.7,Naiise,Supper,Food & Drink
+2025-07-03 02:31:19.411395,67.61,McDonald's,Dinner takeout,Food & Drink
+2024-10-29 05:48:34.283231,344.39,Netflix,Phone bill,Bills & Utilities
+2025-04-29 14:17:19.226167,4247.47,Harvey Norman,Book purchase,Shopping
+2024-09-23 11:15:44.503836,38.34,MyCar,Train ticket,Transport
+2024-11-29 19:51:19.313178,379.7,Village Grocer,Bulk buying,Groceries
+2025-04-28 04:46:31.917336,20.35,Waze,Train ticket,Transport
+2025-01-12 07:17:22.893439,557.93,Ticketmaster,Family outing,Entertainment
+2025-07-04 03:02:05.454840,409.54,Redbox Karaoke,Magazine subscription,Entertainment
+2025-02-10 01:25:22.501923,3237.32,IKEA,Sporting goods,Shopping
+2025-07-16 20:04:21.716841,522.05,PlayStation Store,In-game purchase,Entertainment
+2025-06-17 15:31:56.559196,263.13,Indah Water Konsortium,Phone bill,Bills & Utilities
+2025-04-01 20:50:19.769095,534.62,Steam Games,Online game purchase,Entertainment
+2024-11-15 19:20:59.461615,284.3,BMS Organics,Restocking pantry,Groceries
+2025-04-19 02:27:42.140386,5182.21,Sephora,Home decor,Shopping
+2025-05-29 00:58:53.150868,6178.07,Sunway Pyramid,Sporting goods,Shopping
+2025-03-20 04:23:09.390081,390.73,Jaya Grocer,Household items,Groceries
+2025-01-19 18:53:00.851744,109.03,Digi,Music streaming,Bills & Utilities
+2024-09-03 15:30:35.343911,73.95,KLIA Transit,Public transport pass,Transport
+2024-10-28 21:40:50.512795,8121.15,Zara,Skincare haul,Shopping
+2024-11-25 04:40:38.900822,9504.11,Zara,Furniture purchase,Shopping
+2024-09-11 16:50:29.204669,227.07,Audible,Music streaming,Bills & Utilities
+2024-12-06 06:05:49.626404,363.75,Courts Mammoth,Fashion accessories,Shopping
+2024-11-03 18:06:22.407225,99.32,Redbox Karaoke,Movie tickets,Entertainment
+2025-06-29 06:49:36.156446,460.2,Maxis,Gas bill,Bills & Utilities
+2025-04-21 06:59:18.946748,343.81,99 Speedmart,Baking supplies,Groceries
+2025-04-10 08:30:54.634722,145.98,OldTown White Coffee,Morning coffee,Food & Drink
+2024-11-17 03:58:43.265194,5181.29,Mr. D.I.Y.,New clothes,Shopping
+2024-12-18 15:58:43.756786,9496.82,Padini,Skincare haul,Shopping
+2024-11-04 09:46:44.055658,510.57,Steam Games,Family outing,Entertainment
+2024-12-14 13:31:11.027097,241.53,AEON,Dairy and eggs,Groceries
+2025-04-10 16:57:35.015117,111.02,Petronas,Train ticket,Transport
+2025-06-19 08:52:49.517968,261.1,Lotus's,Household items,Groceries
+2025-05-18 20:55:05.622467,102.19,AirAsia Ride,Toll payment,Transport
+2024-12-06 06:21:11.358758,149.58,Guardian,Annual health check,Health
+2024-08-21 21:31:21.045515,113.52,Sunway Lagoon,Karaoke session,Entertainment
+2025-03-18 08:52:34.817580,92.98,TIME Internet,Electricity bill,Bills & Utilities
+2024-12-19 01:11:41.675978,3997.37,Kinokuniya,Fashion accessories,Shopping
+2025-02-06 12:24:55.210968,60.05,Village Grocer,Restocking pantry,Groceries
+2025-04-17 16:33:15.459437,24.12,SOCAR,Road trip fuel,Transport
+2024-09-15 09:21:09.911690,114.09,Burger King,Weekend brunch,Food & Drink
+2025-04-05 06:53:30.076435,6419.4,Padini,Book purchase,Shopping
+2025-05-11 11:24:34.816361,281.36,NSK Trade City,Toiletries,Groceries
+2025-02-14 00:08:14.403614,435.6,KidZania,Magazine subscription,Entertainment
+2025-05-19 07:23:01.069846,57.32,MyCar,Train ticket,Transport
+2025-06-25 13:34:23.063329,522.69,PlayStation Store,Video game subscription,Entertainment
+2025-01-10 17:29:49.405941,3015.0,H&M,Book purchase,Shopping
+2025-04-24 17:17:59.207721,12.26,Sushi King,Business lunch,Food & Drink
+2025-02-16 18:37:19.116374,754.29,Anytime Fitness,Specialist consultation,Health
+2024-09-28 10:04:16.247850,98.66,KLIA Transit,Airport commute,Transport
+2025-05-12 14:29:00.475919,42.82,OldTown White Coffee,Dinner takeout,Food & Drink
+2024-09-19 07:31:07.831626,75.27,Setel,Bus fare,Transport
+2025-05-13 09:00:02.876137,267.01,Tenaga Nasional,Mobile postpaid,Bills & Utilities
+2024-10-26 11:54:01.973724,78.75,Tenaga Nasional,Cloud storage fee,Bills & Utilities
+2024-10-28 02:34:01.715914,190.43,Genting SkyWorlds,Theme park tickets,Entertainment
+2024-10-07 16:46:39.109299,371.87,NSK Trade City,Beverages and snacks,Groceries
+2025-06-06 10:12:53.109766,47.77,YouTube Premium,Gas bill,Bills & Utilities
+2024-11-23 02:27:56.053831,50.59,PlayStation Store,Video game subscription,Entertainment
+2025-06-04 16:06:42.028112,9012.18,Decathlon,Skincare haul,Shopping
+2025-04-20 06:34:22.721256,88.51,Waze,Public transport pass,Transport
+2025-03-31 04:03:28.196051,119.0,Waze,Toll payment,Transport
+2025-06-25 06:16:02.845442,157.41,myNEWS,Fresh produce,Groceries
+2025-05-11 08:03:42.250490,137.22,BMS Organics,Household items,Groceries
+2025-05-09 01:58:21.612452,8095.67,H&M,Fashion accessories,Shopping
+2024-08-05 13:34:46.722591,178.37,Watsons,Prescription medicine,Health
+2025-01-26 11:02:21.322003,477.83,Celcom,Monthly subscription,Bills & Utilities
+2024-10-18 08:12:19.438145,476.89,Klinik Mediviron,Vitamins purchase,Health
+2025-05-10 02:53:17.784074,67.66,FamilyMart,Team lunch,Food & Drink
+2025-03-10 12:25:30.793797,134.28,Econsave,Restocking pantry,Groceries
+2024-11-14 14:12:31.900527,629.01,Anytime Fitness,Doctor's visit,Health
+2025-05-28 19:14:21.382083,584.9,Watsons,Over-the-counter meds,Health
+2025-07-11 05:14:54.703210,270.1,Klinik Mediviron,Specialist consultation,Health
+2024-11-30 07:02:41.806984,389.13,Cold Storage,Buying snacks,Groceries
+2025-01-10 07:11:43.086793,107.61,SOCAR,E-hailing service,Transport
+2024-11-17 08:52:03.178227,263.3,myNEWS,Beverages and snacks,Groceries
+2024-12-21 13:20:01.000368,105.87,Touch 'n Go eWallet,Ride to work,Transport
+2025-07-07 19:20:45.820917,2247.0,Courts Mammoth,Sporting goods,Shopping
+2025-04-08 02:44:13.096932,122.92,BMS Organics,Fresh produce,Groceries
+2024-09-26 08:31:04.829609,231.03,TGV Cinemas,Theme park tickets,Entertainment
+2024-10-28 21:52:47.784905,296.65,KidZania,Live event,Entertainment
+2025-05-16 00:50:36.173813,455.23,Caring Pharmacy,Gym membership,Health
+2025-04-21 01:25:46.791288,375.17,AEON,Household items,Groceries
+2025-02-17 14:22:03.350316,538.93,Watsons,Specialist consultation,Health
+2024-12-02 23:48:19.826719,128.18,Klinik Mediviron,Annual health check,Health
+2025-05-24 13:12:42.482229,41.24,Sushi King,Supper,Food & Drink
+2024-09-22 03:22:38.069462,15.65,Touch 'n Go eWallet,Toll payment,Transport
+2024-10-03 05:22:02.006913,9883.35,Zara,Stationery supplies,Shopping
+2025-06-19 14:04:27.073649,44.84,Steam Games,Concert tickets,Entertainment
+2025-06-11 21:27:24.370466,43.43,KLIA Ekspres,Airport commute,Transport
+2024-09-20 19:56:13.154676,31.31,Village Grocer,Buying snacks,Groceries
+2025-08-01 07:14:26.605428,423.93,Maxis,Mobile postpaid,Bills & Utilities
+2025-07-17 05:24:14.551433,79.25,Steam Games,Family outing,Entertainment
+2024-11-29 14:26:13.038068,42.02,AirAsia Ride,Airport commute,Transport
+2024-10-07 23:21:24.449976,60.02,Boost Juice,Business lunch,Food & Drink
+2024-10-05 07:48:30.505866,104.66,MyCar,Airport transfer,Transport
+2025-06-10 04:54:19.647988,461.07,GSC Cinemas,Online game purchase,Entertainment
+2024-09-01 12:26:45.222794,116.7,Econsave,Restocking pantry,Groceries
+2025-07-31 00:25:12.612704,38.26,Secret Recipe,Boba tea,Food & Drink
+2025-03-31 17:16:26.467859,104.29,MRT,Ride to work,Transport
+2025-04-19 18:56:46.511049,333.54,Econsave,Baking supplies,Groceries
+2025-01-12 06:57:10.681242,14.2,MRT,Public transport pass,Transport
+2024-08-13 03:52:14.086914,133.85,FamilyMart,Dinner takeout,Food & Drink
+2024-09-01 00:52:21.689959,417.43,Redbox Karaoke,Family outing,Entertainment
+2025-05-03 01:56:31.077320,172.89,Caring Pharmacy,Skincare products,Health
+2025-02-28 11:08:13.711389,2839.39,IKEA,New clothes,Shopping
+2025-02-08 07:06:41.277330,117.75,Air Selangor,Internet bill,Bills & Utilities
+2025-02-01 17:53:23.309316,3550.51,Kinokuniya,Stationery supplies,Shopping
+2025-04-24 16:41:09.525583,14.17,MyCar,Car rental,Transport
+2025-06-13 02:01:24.019774,441.0,Genting SkyWorlds,Magazine subscription,Entertainment
+2024-12-15 01:31:35.796876,201.96,Econsave,Household items,Groceries
+2024-10-31 09:00:45.589092,251.67,PlayStation Store,Online game purchase,Entertainment
+2024-11-22 07:52:09.585839,100.68,AEON,Baking supplies,Groceries
+2024-12-24 20:59:45.953565,268.84,Cold Storage,Organic food purchase,Groceries
+2024-09-28 21:29:01.378862,146.79,myNEWS,Restocking pantry,Groceries
+2025-06-06 12:38:03.573120,444.78,Sunway Lagoon,Live event,Entertainment
+2025-04-27 08:47:14.846248,63.11,Econsave,Organic food purchase,Groceries
+2025-06-21 04:51:06.857388,121.33,Sunway Medical Centre,Specialist consultation,Health
+2024-12-22 09:31:00.695670,174.07,AEON,Beverages and snacks,Groceries
+2025-01-06 11:56:04.769781,124.24,Pizza Hut,Quick bite,Food & Drink
+2025-02-01 04:05:41.037002,276.63,Watsons,Annual health check,Health
+2025-05-22 09:27:40.976278,213.66,BMS Organics,Beverages and snacks,Groceries
+2024-10-16 12:50:40.993928,228.17,Sunway Medical Centre,Health screening,Health
+2025-03-29 17:13:44.733526,149.67,Pizza Hut,Quick bite,Food & Drink
+2025-07-05 15:28:55.685905,432.8,Maxis,Internet bill,Bills & Utilities
+2025-01-13 05:04:04.364485,88.52,Indah Water Konsortium,Cable TV subscription,Bills & Utilities
+2024-08-12 21:46:22.668923,488.32,Guardian,Over-the-counter meds,Health
+2025-05-28 04:14:30.219072,335.88,Giant,Dairy and eggs,Groceries
+2024-10-23 10:14:46.461777,6701.13,Uniqlo,Furniture purchase,Shopping
+2024-08-17 03:51:59.158388,3343.48,Kinokuniya,Furniture purchase,Shopping
+2025-07-23 17:37:21.188813,26.58,iCare Dental,Health screening,Health
+2025-05-12 09:34:25.408513,81.14,PappaRich,Boba tea,Food & Drink
+2025-01-15 23:06:46.566066,1662.28,Sephora,Book purchase,Shopping
+2024-10-18 13:16:26.018511,9919.68,Apple Store,Home decor,Shopping
+2025-04-08 15:36:29.851154,74.43,NSK Trade City,Organic food purchase,Groceries
+2024-11-08 13:20:44.792078,34.66,Jaya Grocer,Baking supplies,Groceries
+2024-12-15 05:05:13.380095,922.12,Sephora,Shopping at mall,Shopping
+2024-10-10 00:41:43.323571,97.41,Decathlon,Appliance upgrade,Shopping
+2025-01-23 08:27:12.513205,231.02,Pantai Hospital,Health screening,Health
+2024-09-03 19:38:06.488640,55.87,Touch 'n Go eWallet,E-hailing service,Transport
+2024-09-26 14:45:24.433420,52.67,Sushi King,Business lunch,Food & Drink
+2024-08-10 06:42:38.306709,6684.67,Kinokuniya,Stationery supplies,Shopping
+2025-04-18 22:42:08.682702,111.76,GrabCar,Fuel top-up,Transport
+2024-10-21 03:00:11.048649,299.0,Audible,Cable TV subscription,Bills & Utilities
+2025-01-01 11:55:47.298774,4059.55,Zalora,Appliance upgrade,Shopping
+2025-07-27 23:00:22.045274,425.77,Spotify,Cable TV subscription,Bills & Utilities
+2025-02-23 11:48:45.102800,33.98,PappaRich,Healthy smoothie,Food & Drink
+2025-02-19 12:39:21.639969,77.46,Audible,Sewerage bill,Bills & Utilities
+2025-01-29 14:14:26.427620,71.41,myNEWS,Dairy and eggs,Groceries
+2025-03-24 18:19:34.755978,136.09,Burger King,Team lunch,Food & Drink
+2025-03-19 22:23:07.970339,227.78,Checkers Hypermarket,Restocking pantry,Groceries
+2025-04-01 07:02:55.870347,6500.93,Apple Store,Appliance upgrade,Shopping
+2024-10-04 20:32:45.708752,130.15,Gong Cha,Morning coffee,Food & Drink
+2024-12-10 10:50:04.859400,51.37,Tealive,Weekend brunch,Food & Drink
+2025-03-10 21:28:50.168024,619.29,Sunway Medical Centre,First aid supplies,Health
+2024-08-21 22:56:42.308427,256.01,Cold Storage,Restocking pantry,Groceries
+2024-12-24 01:37:55.405649,189.08,Air Selangor,Gas bill,Bills & Utilities
+2024-10-18 09:18:12.318439,66.15,AEON,Fresh produce,Groceries
+2024-08-15 02:09:22.902861,261.62,Village Grocer,Beverages and snacks,Groceries
+2024-09-02 22:27:31.693412,193.1,Econsave,Restocking pantry,Groceries
+2025-03-05 06:50:56.563047,25.49,Boost Juice,Dinner takeout,Food & Drink
+2025-01-11 21:14:10.200844,47.89,Redbox Karaoke,In-game purchase,Entertainment
+2024-11-06 04:43:12.264338,147.65,Watsons,Annual health check,Health
+2025-07-10 08:09:44.128840,28.57,KidZania,Weekend movie,Entertainment
+2025-08-02 22:38:23.868195,672.11,Alpro Pharmacy,Gym membership,Health
+2024-08-21 12:32:53.572227,26.56,McDonald's,Team lunch,Food & Drink
+2024-09-11 19:13:22.223053,140.62,Lotus's,Organic food purchase,Groceries
+2025-03-23 04:20:05.421033,3526.37,BookXcess,New clothes,Shopping
+2025-04-26 01:39:24.091073,433.34,Disney+ Hotstar,Monthly subscription,Bills & Utilities
+2024-09-02 06:41:52.465564,6837.87,Mr. D.I.Y.,Stationery supplies,Shopping
+2025-02-05 18:59:38.493267,46.25,PappaRich,Supper,Food & Drink
+2024-09-29 07:10:10.431761,174.08,Maxis,Phone bill,Bills & Utilities
+2024-09-17 07:13:55.881564,68.36,PappaRich,Ice cream treat,Food & Drink
+2025-01-13 20:28:42.465710,53.73,Chatime,Weekend brunch,Food & Drink
+2024-10-30 19:48:36.000082,5569.24,Lazada,Gadget purchase,Shopping
+2024-11-08 07:29:03.407429,329.32,Village Grocer,Organic food purchase,Groceries
+2025-07-23 20:44:51.095078,62.49,MRT,Toll payment,Transport
+2025-07-07 03:27:41.640809,220.98,Lotus's,Weekly groceries,Groceries
+2025-05-03 23:47:01.417824,196.29,Village Grocer,Beverages and snacks,Groceries
+2025-06-16 22:42:00.028023,235.16,Spotify,Audiobook credit,Bills & Utilities
+2025-02-20 22:00:07.891101,458.3,KidZania,Video game subscription,Entertainment
+2024-09-12 18:57:09.881883,8566.6,BookXcess,Fashion accessories,Shopping
+2025-05-31 12:46:47.894938,56.59,GoCar,Train ticket,Transport
+2025-01-21 15:15:03.143069,9019.56,Mid Valley Megamall,Home decor,Shopping
+2025-06-20 15:09:24.917522,170.23,Genting SkyWorlds,Karaoke session,Entertainment
+2025-05-29 01:07:00.322416,420.0,Tenaga Nasional,Internet bill,Bills & Utilities
+2025-01-02 05:51:38.121641,27.52,MyCar,Public transport pass,Transport
+2024-11-26 00:42:05.682532,268.39,Anytime Fitness,Dental check-up,Health
+2024-09-15 01:50:54.684282,5653.32,Zara,Fashion accessories,Shopping
+2024-09-22 19:08:07.499484,295.95,Sunway Lagoon,Live event,Entertainment
+2025-01-25 04:16:37.609111,561.64,Klinik Mediviron,Specialist consultation,Health
+2025-03-05 18:08:11.162788,395.98,Cold Storage,Buying snacks,Groceries
+2024-09-04 20:26:32.351131,68.77,MyCar,Car rental,Transport
+2025-04-02 19:49:21.597811,8863.32,IKEA,Gift for friend,Shopping
+2024-09-03 18:45:17.386811,923.95,Sephora,Book purchase,Shopping
+2024-09-13 05:13:32.334636,325.66,Watsons,Gym membership,Health
+2025-03-04 10:44:27.134164,9590.6,Mr. D.I.Y.,Home decor,Shopping
+2024-10-19 15:55:50.232478,182.82,Giant,Restocking pantry,Groceries
+2024-12-02 01:25:13.467503,65.1,Steam Games,Concert tickets,Entertainment
+2025-05-05 01:09:25.117618,22.11,Setel,E-hailing service,Transport
+2025-03-20 10:31:30.516489,264.89,NSK Trade City,Household items,Groceries
+2024-09-17 23:50:01.469574,7.3,Grab,Public transport pass,Transport
+2025-01-15 20:50:52.473320,6165.35,BookXcess,Gadget purchase,Shopping
+2024-10-20 03:11:50.590340,165.68,TIME Internet,Music streaming,Bills & Utilities
+2025-02-25 01:07:42.938185,278.8,Jaya Grocer,Toiletries,Groceries
+2024-09-29 12:36:15.338385,36.7,GoCar,Bus fare,Transport
+2025-07-30 01:08:43.938991,4193.03,Mid Valley Megamall,Skincare haul,Shopping
+2025-07-11 15:28:33.148263,161.12,Klinik Mediviron,Annual health check,Health
+2025-06-19 03:08:31.370557,47.22,AirAsia Ride,Fuel top-up,Transport
+2025-03-24 01:23:10.353023,4891.66,Harvey Norman,Stationery supplies,Shopping
+2024-11-26 05:26:59.202467,146.74,Chatime,Lunch with colleagues,Food & Drink
+2025-07-04 20:57:41.315507,52.49,Petronas,Ride to work,Transport
+2024-11-12 14:18:12.715106,380.12,Genting SkyWorlds,Online game purchase,Entertainment
+2025-03-11 21:06:39.240939,118.2,Grab,Fuel top-up,Transport
+2025-07-26 09:23:00.139823,27.6,Setel,Road trip fuel,Transport
+2025-08-01 02:00:29.084244,113.08,Chatime,Morning coffee,Food & Drink
+2025-05-22 12:02:39.889716,277.07,Watsons,Dental check-up,Health
+2024-08-17 08:55:23.823183,62.37,Sunway Medical Centre,Vitamins purchase,Health
+2025-04-10 10:49:30.980683,600.14,Alpro Pharmacy,Vitamins purchase,Health
+2025-04-04 10:38:20.082700,32.09,Touch 'n Go eWallet,Airport commute,Transport
+2025-05-05 20:43:22.290689,307.01,BMS Organics,Restocking pantry,Groceries
+2025-05-01 01:07:31.819919,197.66,Netflix,Water bill,Bills & Utilities
+2025-02-24 23:45:24.317939,69.59,Astro,Mobile postpaid,Bills & Utilities
+2024-11-04 21:02:42.334165,304.58,Checkers Hypermarket,Weekly groceries,Groceries
+2025-05-26 20:31:19.667299,311.89,Redbox Karaoke,Video game subscription,Entertainment
+2025-06-28 11:50:27.210150,38.82,Caltex,Bus fare,Transport
+2025-05-14 15:30:46.895993,30.58,BIG Pharmacy,Vitamins purchase,Health
+2025-03-13 15:07:12.965044,2470.97,Apple Store,Appliance upgrade,Shopping
+2025-06-11 15:14:33.575242,7727.14,Zalora,Fashion accessories,Shopping
+2024-11-28 02:53:37.248212,77.65,KFC,Dessert,Food & Drink
+2025-02-09 02:22:09.801669,377.11,AEON,Toiletries,Groceries
+2025-04-01 10:29:21.841104,578.85,Steam Games,Karaoke session,Entertainment
+2025-06-01 23:42:34.601158,387.88,iCare Dental,Prescription medicine,Health
+2025-08-02 11:21:51.883301,45.25,GSC Cinemas,In-game purchase,Entertainment
+2024-12-14 01:46:42.682185,93.56,Sushi King,Business lunch,Food & Drink
+2025-03-23 18:47:00.510617,133.03,Air Selangor,Cable TV subscription,Bills & Utilities
+2024-11-02 00:03:38.393508,139.74,Boost Juice,Dessert,Food & Drink
+2024-11-22 00:56:19.780224,410.28,Unifi,Electricity bill,Bills & Utilities
+2025-03-21 00:46:40.687674,88.79,Padini,Home decor,Shopping
+2025-05-19 14:33:38.824401,9460.99,Uniqlo,Skincare haul,Shopping
+2025-03-04 10:41:51.297058,247.77,Econsave,Weekly groceries,Groceries
+2025-04-10 13:29:27.445794,111.81,LRT Kelana Jaya,E-hailing service,Transport
+2024-10-30 17:24:27.187387,2592.08,Zalora,Furniture purchase,Shopping
+2025-01-01 13:27:06.995773,258.29,BMS Organics,Toiletries,Groceries
+2025-05-15 10:19:17.488545,734.66,Pantai Hospital,Health screening,Health
+2025-02-04 16:48:27.763239,525.21,PlayStation Store,Video game subscription,Entertainment
+2025-06-23 14:35:50.517730,314.54,Giant,Household items,Groceries
+2025-06-11 13:01:34.420325,31.45,FamilyMart,Lunch with colleagues,Food & Drink
+2025-05-13 20:32:17.054934,170.66,Unifi,Cable TV subscription,Bills & Utilities
+2024-12-24 06:14:12.668388,6287.34,Kinokuniya,Skincare haul,Shopping
+2024-09-05 23:22:26.471786,8.64,MyCar,Public transport pass,Transport
+2025-06-13 05:11:29.959770,144.08,Jaya Grocer,Buying snacks,Groceries
+2024-10-29 11:40:28.860821,135.13,Sushi King,Dessert,Food & Drink
+2024-08-13 11:07:11.490837,38.28,MRT,Train ticket,Transport
+2025-07-27 14:24:07.657936,98.93,LRT Kelana Jaya,E-hailing service,Transport
+2025-07-07 20:22:09.269837,334.97,Disney+ Hotstar,Sewerage bill,Bills & Utilities
+2024-08-13 16:42:53.971916,245.45,Indah Water Konsortium,Sewerage bill,Bills & Utilities
+2025-01-22 16:39:11.590978,113.49,MRT,Parking fee,Transport
+2025-07-26 11:52:15.974196,76.11,Pizza Hut,Team lunch,Food & Drink
+2025-07-12 09:04:59.745526,277.01,Digi,Phone bill,Bills & Utilities
+2024-10-10 23:19:21.779291,4891.64,H&M,Book purchase,Shopping
+2025-01-29 04:32:32.232984,323.92,Air Selangor,Audiobook credit,Bills & Utilities
+2024-09-14 10:17:04.978353,126.79,Alpro Pharmacy,Skincare products,Health
+2025-01-21 19:38:02.313164,3966.78,Courts Mammoth,Furniture purchase,Shopping
+2025-03-25 00:16:37.882963,48.48,Burger King,Dinner takeout,Food & Drink
+2025-07-24 20:36:53.305764,64.14,KFC,Dinner takeout,Food & Drink
+2025-03-02 01:29:16.380403,512.32,TGV Cinemas,Family outing,Entertainment
+2025-01-16 17:31:15.690248,347.37,Klinik Mediviron,Vitamins purchase,Health
+2025-06-23 08:11:31.868363,74.0,McDonald's,Business lunch,Food & Drink
+2025-03-02 14:23:34.681518,4224.3,Shopee,Gadget purchase,Shopping
+2024-09-30 20:27:03.465197,3937.77,Sephora,Online order,Shopping
+2024-10-03 07:49:34.094669,5456.78,Harvey Norman,Book purchase,Shopping
+2024-08-18 00:01:30.365349,343.37,Maxis,Sewerage bill,Bills & Utilities
+2025-01-19 20:50:53.547052,129.54,Spotify,Mobile postpaid,Bills & Utilities
+2025-04-03 08:36:30.488333,253.96,Genting SkyWorlds,Movie tickets,Entertainment
+2025-04-26 17:42:23.071254,497.27,Redbox Karaoke,Magazine subscription,Entertainment
+2024-09-13 21:38:17.353281,134.98,Zus Coffee,Quick bite,Food & Drink
+2025-02-24 10:56:42.634995,22.35,Domino's Pizza,Dinner takeout,Food & Drink
+2025-01-29 20:22:36.222173,52.43,MRT,Airport commute,Transport
+2025-07-16 08:27:20.345770,457.42,Genting SkyWorlds,Karaoke session,Entertainment
+2024-10-29 20:50:42.641505,3002.33,Lazada,Home decor,Shopping
+2025-04-24 06:31:18.795153,272.59,Cold Storage,Fresh produce,Groceries
+2024-09-02 21:29:02.631495,62.43,SOCAR,Train ticket,Transport
+2025-04-14 16:41:35.737604,255.6,Econsave,Household items,Groceries
+2025-06-19 09:30:45.642837,43.93,Domino's Pizza,Weekend brunch,Food & Drink
+2024-12-02 18:31:26.818230,146.42,Naiise,Boba tea,Food & Drink
+2024-08-13 03:08:25.163076,12.22,Maxis,Electricity bill,Bills & Utilities
+2025-03-15 10:17:53.537867,553.56,Klinik Mediviron,Doctor's visit,Health
+2025-04-24 16:28:18.916953,72.46,Nando's,Boba tea,Food & Drink
+2025-01-05 08:39:57.013164,46.24,AirAsia Ride,Ride to work,Transport
+2025-04-09 12:35:32.051838,281.06,BIG Pharmacy,Prescription medicine,Health
+2025-06-16 18:26:33.002412,94.5,TGV Cinemas,Karaoke session,Entertainment
+2025-05-20 06:21:32.308094,485.65,Alpro Pharmacy,Health screening,Health
+2025-06-04 02:32:17.285088,62.55,OldTown White Coffee,Coffee meeting,Food & Drink
+2025-02-14 02:18:51.739325,161.07,Lotus's,Household items,Groceries
+2025-01-25 07:31:45.987935,98.37,Pizza Hut,Dessert,Food & Drink
+2024-08-19 02:45:46.037646,301.16,NSK Trade City,Household items,Groceries
+2025-01-30 09:37:42.331318,2597.94,Harvey Norman,Appliance upgrade,Shopping
+2024-11-07 04:09:17.755260,6620.49,Decathlon,Gift for friend,Shopping
+2025-04-01 22:29:21.512290,322.02,Alpro Pharmacy,Specialist consultation,Health
+2024-10-15 23:55:40.786211,527.25,GSC Cinemas,In-game purchase,Entertainment
+2024-11-18 10:14:12.176800,77.67,KLIA Ekspres,Airport transfer,Transport
+2024-12-10 20:45:52.987477,2755.41,IKEA,Book purchase,Shopping
+2024-11-17 05:16:17.308776,7.72,Waze,Public transport pass,Transport
+2025-05-22 21:55:19.972138,69.53,Waze,Train ticket,Transport
+2024-12-28 10:24:18.112609,280.71,AEON,Organic food purchase,Groceries
+2024-09-15 14:35:00.585628,495.6,Pantai Hospital,Vitamins purchase,Health
+2024-10-10 17:34:59.998399,294.87,99 Speedmart,Organic food purchase,Groceries
+2025-01-02 06:40:03.088096,137.91,OldTown White Coffee,Healthy smoothie,Food & Drink
+2025-06-05 07:43:17.346640,70.86,Chatime,Weekend brunch,Food & Drink
+2025-06-23 02:11:22.371753,307.09,Guardian,Vitamins purchase,Health
+2024-09-04 17:19:21.909765,110.52,Waze,Car rental,Transport
+2025-08-02 22:48:40.681399,55.77,FamilyMart,Coffee meeting,Food & Drink
+2024-11-27 07:13:36.527860,205.92,Netflix,Mobile postpaid,Bills & Utilities
+2024-10-31 11:14:27.959210,271.5,Fitness First,Gym membership,Health
+2025-01-21 16:31:15.513181,443.89,Steam Games,In-game purchase,Entertainment
+2024-12-11 12:52:30.057041,8169.82,Mid Valley Megamall,Sporting goods,Shopping
+2025-05-29 20:57:51.621109,6030.61,Mr. D.I.Y.,Fashion accessories,Shopping
+2025-05-26 15:01:36.585018,9183.9,Zalora,Electronics purchase,Shopping
+2024-12-25 21:07:55.005328,155.26,Village Grocer,Dairy and eggs,Groceries
+2024-10-09 12:57:44.985440,5321.58,Padini,New clothes,Shopping
+2025-01-06 14:29:28.846342,8966.86,Uniqlo,Fashion accessories,Shopping
+2024-08-11 21:31:02.304221,814.84,Courts Mammoth,Appliance upgrade,Shopping
+2025-01-04 13:29:15.942945,15.53,Cold Storage,Beverages and snacks,Groceries
+2024-12-28 19:38:08.414796,183.07,Cold Storage,Fresh produce,Groceries
+2024-08-15 22:57:04.571002,22.85,Checkers Hypermarket,Restocking pantry,Groceries
+2024-09-23 22:55:38.231008,520.64,Genting SkyWorlds,Karaoke session,Entertainment
+2025-04-29 03:19:11.128827,106.92,Caring Pharmacy,First aid supplies,Health
+2025-03-27 07:19:01.440274,83.09,GSC Cinemas,Family outing,Entertainment
+2025-05-20 10:14:08.271870,358.88,Giant,Organic food purchase,Groceries
+2024-08-16 02:13:41.424638,33.99,Mamak ABC,Team lunch,Food & Drink
+2025-04-09 22:27:21.847268,413.76,Anytime Fitness,Annual health check,Health
+2025-01-22 03:49:07.686194,374.04,TIME Internet,Cable TV subscription,Bills & Utilities
+2025-01-02 01:21:53.115927,34.81,NSK Trade City,Weekly groceries,Groceries
+2025-04-14 10:51:33.017518,244.63,Fitness First,First aid supplies,Health
+2025-05-13 23:52:37.666868,283.54,TIME Internet,Electricity bill,Bills & Utilities
+2024-12-19 07:44:52.190827,295.14,Ticketmaster,Weekend movie,Entertainment
+2025-03-22 10:02:26.413431,147.95,Audible,Cloud storage fee,Bills & Utilities
+2024-10-11 04:42:42.977007,85.39,Boost Juice,Dinner takeout,Food & Drink
+2025-05-11 18:58:29.541083,699.01,Pantai Hospital,Health screening,Health
+2025-06-10 17:55:27.557070,203.29,Checkers Hypermarket,Organic food purchase,Groceries
+2025-05-18 22:12:41.804615,126.11,OldTown White Coffee,Dinner takeout,Food & Drink
+2025-02-12 06:28:56.500542,186.33,Celcom,Gas bill,Bills & Utilities
+2024-10-23 07:27:55.703526,113.72,99 Speedmart,Organic food purchase,Groceries
+2024-12-28 13:32:27.818330,4339.27,Courts Mammoth,Online order,Shopping
+2024-09-01 10:59:03.843519,46.3,YouTube Premium,Sewerage bill,Bills & Utilities
+2025-06-27 18:38:10.839834,349.07,Celcom,Music streaming,Bills & Utilities
+2024-12-07 21:00:55.953259,348.54,Lotus's,Buying snacks,Groceries
+2024-12-16 13:25:28.605108,64.1,LRT Kelana Jaya,Public transport pass,Transport
+2024-09-02 08:20:12.325946,6201.52,Uniqlo,Online order,Shopping
+2025-03-06 15:09:01.988750,2369.52,Sunway Pyramid,Sporting goods,Shopping
+2025-07-03 00:33:29.586216,116.38,McDonald's,Healthy smoothie,Food & Drink
+2024-09-29 04:39:18.972184,451.99,Anytime Fitness,Gym membership,Health
+2024-10-02 08:25:40.620196,427.08,Sunway Lagoon,Live event,Entertainment
+2025-05-28 22:21:26.657459,103.34,McDonald's,Healthy smoothie,Food & Drink
+2024-12-31 08:28:44.131165,536.99,KidZania,Video game subscription,Entertainment
+2025-03-12 17:50:49.282838,8921.83,Zalora,Appliance upgrade,Shopping
+2025-02-14 09:06:48.537448,36.12,AirAsia Ride,Toll payment,Transport
+2024-08-26 17:37:56.560676,15.3,Chatime,Ice cream treat,Food & Drink
+2025-04-17 10:22:35.615375,164.39,YouTube Premium,Water bill,Bills & Utilities
+2024-08-07 23:43:00.516062,43.39,The Alley,Business lunch,Food & Drink
+2025-01-10 02:08:21.334542,65.42,NSK Trade City,Toiletries,Groceries
+2024-11-07 00:24:33.179478,398.48,Pantai Hospital,Gym membership,Health
+2025-08-03 01:16:27.136231,178.27,Giant,Organic food purchase,Groceries
+2025-04-15 06:29:46.018207,213.62,Pantai Hospital,Health screening,Health
+2024-10-07 16:19:42.467680,38.58,GoCar,Parking fee,Transport
+2025-01-30 02:06:41.599287,88.07,Fitness First,First aid supplies,Health
+2025-05-21 03:44:04.957834,293.0,Checkers Hypermarket,Beverages and snacks,Groceries
+2024-09-29 10:44:43.065960,352.23,Audible,Gas bill,Bills & Utilities
+2024-08-30 00:19:32.438444,196.99,iCare Dental,Dental check-up,Health
+2024-11-13 21:01:23.897879,119.78,Caring Pharmacy,Dental check-up,Health
+2025-04-24 23:33:05.995264,209.19,AEON,Dairy and eggs,Groceries
+2025-02-27 01:57:14.111487,41.41,Nando's,Lunch with colleagues,Food & Drink
+2025-05-22 21:12:25.289589,8408.15,Sephora,Gift for friend,Shopping
+2025-06-08 16:24:26.788624,80.31,Econsave,Beverages and snacks,Groceries
+2024-10-14 17:52:40.915879,63.94,Disney+ Hotstar,Mobile postpaid,Bills & Utilities
+2025-06-10 23:28:55.848294,310.73,Air Selangor,Electricity bill,Bills & Utilities
+2025-01-03 20:30:24.579021,75.17,TGV Cinemas,Live event,Entertainment
+2024-11-19 12:13:09.873653,192.28,Digi,Water bill,Bills & Utilities
+2025-02-17 21:52:46.483999,35.71,Pizza Hut,Business lunch,Food & Drink
+2025-06-15 20:47:54.634217,63.11,Petronas,Train ticket,Transport
+2024-12-27 07:32:23.066212,330.21,myNEWS,Buying snacks,Groceries
+2025-08-01 11:47:38.479409,306.29,myNEWS,Household items,Groceries
+2024-11-28 09:48:45.650158,205.1,myNEWS,Bulk buying,Groceries
+2025-01-02 00:48:45.853462,74.8,Tealive,Dessert,Food & Drink
+2024-10-06 22:51:27.877716,367.53,Econsave,Beverages and snacks,Groceries
+2025-07-10 05:31:00.900373,187.9,BIG Pharmacy,Skincare products,Health
+2024-09-12 14:50:37.367271,432.29,Maxis,Monthly subscription,Bills & Utilities
+2025-02-07 20:00:13.293945,181.54,myNEWS,Buying snacks,Groceries
+2025-07-07 07:32:43.852188,76.86,Chatime,Ice cream treat,Food & Drink
+2025-02-02 05:51:03.010994,203.73,Checkers Hypermarket,Restocking pantry,Groceries
+2024-08-08 06:35:36.997852,361.4,Giant,Baking supplies,Groceries
+2025-02-03 06:14:57.619759,485.45,GSC Cinemas,Family outing,Entertainment
+2024-09-24 20:37:57.159645,113.28,Naiise,Supper,Food & Drink
+2025-05-12 07:22:28.051322,187.52,GSC Cinemas,Video game subscription,Entertainment
+2024-10-01 05:28:12.915660,342.89,Fitness First,Prescription medicine,Health
+2025-02-20 04:29:24.607981,33.17,KLIA Transit,Airport transfer,Transport
+2024-09-23 20:27:22.864618,388.04,Sunway Medical Centre,Specialist consultation,Health
+2025-03-04 21:17:58.082309,135.21,Audible,Mobile postpaid,Bills & Utilities
+2025-04-05 10:51:46.937336,1554.52,Lazada,Gadget purchase,Shopping
+2024-09-17 10:34:22.486610,6.9,Petronas,E-hailing service,Transport
+2024-11-28 05:35:32.655997,39.86,Gong Cha,Lunch with colleagues,Food & Drink
+2025-02-08 12:38:09.216563,24.51,OldTown White Coffee,Quick bite,Food & Drink
+2024-08-04 21:37:03.149381,591.73,Caring Pharmacy,Vitamins purchase,Health
+2024-12-18 18:55:49.558461,89.88,GoCar,Train ticket,Transport
+2025-01-15 07:02:38.352098,145.09,Nando's,Coffee meeting,Food & Drink
+2025-06-22 07:53:05.092858,2201.49,Padini,Electronics purchase,Shopping
+2025-03-13 17:16:15.294992,85.36,Nando's,Dessert,Food & Drink
+2025-06-10 09:48:47.234732,98.04,Ticketmaster,Live event,Entertainment
+2024-09-09 06:16:36.700710,24.0,TIME Internet,Internet bill,Bills & Utilities
+2024-10-22 09:40:02.330365,371.26,Disney+ Hotstar,Cloud storage fee,Bills & Utilities
+2025-05-01 01:16:56.983814,369.65,99 Speedmart,Baking supplies,Groceries
+2024-11-19 15:33:31.489088,98.92,Air Selangor,Mobile postpaid,Bills & Utilities
+2025-05-17 04:40:56.683929,202.21,BIG Pharmacy,Health screening,Health
+2025-03-11 09:55:47.465281,410.93,Spotify,Streaming service,Bills & Utilities
+2025-03-15 14:33:14.797140,107.71,Subway,Weekend brunch,Food & Drink
+2025-04-16 16:35:12.172576,568.55,Caring Pharmacy,Specialist consultation,Health
+2025-04-16 01:18:37.890042,402.5,GSC Cinemas,Concert tickets,Entertainment
+2025-07-28 11:49:08.306315,7762.84,Zalora,Book purchase,Shopping
+2025-01-23 23:57:17.063462,4835.93,Zara,Skincare haul,Shopping
+2025-07-22 22:45:19.146078,21.33,Air Selangor,Phone bill,Bills & Utilities
+2024-10-20 02:31:55.676112,146.32,Lotus's,Bulk buying,Groceries
+2025-02-11 16:40:33.019805,746.98,Watsons,Skincare products,Health
+2025-06-11 02:25:41.306947,284.31,Pantai Hospital,Doctor's visit,Health
+2025-03-13 14:16:05.402021,8330.48,Padini,Book purchase,Shopping
+2024-11-18 03:47:21.166725,101.83,MRT,Public transport pass,Transport
+2024-10-01 22:09:20.067724,105.42,Alpro Pharmacy,First aid supplies,Health
+2025-02-07 17:14:44.651129,138.36,BIG Pharmacy,Skincare products,Health
+2025-07-06 13:44:35.600612,52.17,Village Grocer,Fresh produce,Groceries
+2025-03-27 09:57:51.566125,539.99,Genting SkyWorlds,Theme park tickets,Entertainment
+2025-04-23 17:08:31.866677,35.69,Caltex,Public transport pass,Transport
+2025-02-04 03:22:06.413090,2900.73,Kinokuniya,Appliance upgrade,Shopping
+2025-06-13 00:46:50.761630,378.28,Indah Water Konsortium,Internet bill,Bills & Utilities
+2025-02-14 03:34:03.193551,3692.05,Sunway Pyramid,Sporting goods,Shopping
+2024-09-13 18:34:38.416174,269.17,Steam Games,Video game subscription,Entertainment
+2024-12-13 15:14:43.955880,266.1,Disney+ Hotstar,Cable TV subscription,Bills & Utilities
+2025-08-04 07:52:59.854561,1984.31,Uniqlo,New clothes,Shopping
+2025-06-01 16:59:44.381124,469.84,Indah Water Konsortium,Music streaming,Bills & Utilities
+2025-04-14 18:14:31.074944,468.7,Alpro Pharmacy,Gym membership,Health
+2025-05-09 04:00:39.743206,204.12,iCare Dental,Health screening,Health
+2024-12-03 04:47:12.822202,4181.06,Sephora,Fashion accessories,Shopping
+2024-08-14 18:15:57.093574,536.4,Redbox Karaoke,Theme park tickets,Entertainment
+2024-10-02 03:12:36.538540,90.51,Gong Cha,Dessert,Food & Drink
+2025-06-27 09:04:24.430933,119.37,LRT Kelana Jaya,Airport transfer,Transport
+2025-07-12 10:46:50.800443,40.79,Grab,Toll payment,Transport
+2024-10-14 06:04:51.252396,7460.86,Shopee,Gadget purchase,Shopping
+2025-06-07 04:52:21.534910,220.81,AEON,Fresh produce,Groceries
+2024-08-27 13:32:38.627863,484.15,Disney+ Hotstar,Monthly subscription,Bills & Utilities
+2024-09-26 13:33:03.625845,78.55,AirAsia Ride,E-hailing service,Transport
+2025-06-08 19:29:35.347199,402.62,Ticketmaster,Family outing,Entertainment
+2024-08-23 15:50:13.878346,104.11,KFC,Team lunch,Food & Drink
+2024-08-17 04:50:39.445478,323.85,Indah Water Konsortium,Mobile postpaid,Bills & Utilities
+2025-02-07 19:21:54.791029,102.21,99 Speedmart,Fresh produce,Groceries
+2024-11-17 10:01:27.532947,448.43,Maxis,Mobile postpaid,Bills & Utilities
+2024-11-27 01:26:31.293041,80.43,SOCAR,Road trip fuel,Transport
+2024-08-15 19:42:58.917066,698.22,iCare Dental,Over-the-counter meds,Health
+2025-03-28 06:02:09.664174,103.39,OldTown White Coffee,Lunch with colleagues,Food & Drink
+2025-03-31 11:12:36.758788,269.76,Village Grocer,Dairy and eggs,Groceries
+2024-08-25 08:16:48.758819,99.7,AEON,Toiletries,Groceries
+2024-09-18 00:57:25.962655,159.27,Giant,Weekly groceries,Groceries
+2025-01-26 20:58:51.929061,60.51,Petronas,Bus fare,Transport
+2025-02-01 19:57:59.895027,372.33,Guardian,Specialist consultation,Health
+2024-10-04 22:21:49.681144,105.47,Subway,Team lunch,Food & Drink
+2025-01-23 23:16:21.959546,252.29,Air Selangor,Music streaming,Bills & Utilities
+2024-10-22 01:44:37.259286,2896.97,Zalora,Appliance upgrade,Shopping
+2024-09-08 07:15:04.163668,4977.46,Harvey Norman,Book purchase,Shopping
+2024-08-22 02:40:57.569931,91.79,FamilyMart,Healthy smoothie,Food & Drink
+2024-10-30 12:09:25.404753,89.69,The Alley,Dessert,Food & Drink
+2024-10-20 17:08:53.607821,372.72,Jaya Grocer,Organic food purchase,Groceries
+2025-01-01 06:34:59.437372,6879.24,Apple Store,Skincare haul,Shopping
+2025-05-13 16:39:23.059062,104.61,Digi,Streaming service,Bills & Utilities
+2024-08-11 15:12:33.448768,5690.34,H&M,Sporting goods,Shopping
+2024-09-07 08:22:37.991776,360.66,Air Selangor,Sewerage bill,Bills & Utilities
+2024-12-10 11:04:04.165303,57.33,GrabCar,Road trip fuel,Transport
+2025-07-31 22:19:19.078661,68.34,SOCAR,Parking fee,Transport
+2025-06-23 11:22:00.345344,96.89,KLIA Transit,Airport commute,Transport
+2024-11-09 02:51:33.964579,369.79,Astro,Streaming service,Bills & Utilities
+2025-07-09 17:29:13.565294,1524.01,Shopee,Shopping at mall,Shopping
+2025-06-04 06:43:50.322874,147.87,The Alley,Healthy smoothie,Food & Drink
+2024-11-10 05:37:49.688351,40.06,AirAsia Ride,Toll payment,Transport
+2025-06-05 23:37:48.747854,354.86,NSK Trade City,Organic food purchase,Groceries
+2024-11-10 23:19:38.175399,341.0,Econsave,Dairy and eggs,Groceries
+2025-01-17 20:12:31.958684,46.38,The Alley,Healthy smoothie,Food & Drink
+2025-01-04 00:35:23.805310,176.34,Unifi,Mobile postpaid,Bills & Utilities
+2025-04-13 16:04:42.847703,77.5,Chatime,Supper,Food & Drink
+2024-08-06 07:23:50.809641,8467.58,Harvey Norman,Book purchase,Shopping
+2024-12-02 06:57:20.571476,115.32,Checkers Hypermarket,Beverages and snacks,Groceries
+2025-06-13 18:42:26.887822,515.48,TGV Cinemas,Weekend movie,Entertainment
+2024-08-16 21:07:09.648216,218.64,Checkers Hypermarket,Household items,Groceries
+2024-09-07 16:54:27.595531,4297.04,Sunway Pyramid,Gadget purchase,Shopping
+2025-05-28 12:18:30.203248,6750.17,IKEA,Fashion accessories,Shopping
+2024-08-12 01:35:23.023314,2795.04,Harvey Norman,Furniture purchase,Shopping
+2024-11-08 00:49:53.341048,124.49,Ticketmaster,Theme park tickets,Entertainment
+2024-12-18 04:30:38.750732,36.93,GoCar,Public transport pass,Transport
+2025-04-08 09:23:55.657562,37.8,KFC,Supper,Food & Drink
+2024-09-08 08:30:43.395813,24.36,Caring Pharmacy,Annual health check,Health
+2025-07-27 19:06:32.483640,314.88,Genting SkyWorlds,Magazine subscription,Entertainment
+2025-07-24 09:48:08.816251,79.89,SOCAR,Airport commute,Transport
+2025-07-14 04:26:00.151929,79.4,Petronas,Public transport pass,Transport
+2024-11-16 01:27:12.488171,209.09,Audible,Cable TV subscription,Bills & Utilities
+2025-06-25 03:19:02.121987,50.98,KLIA Transit,Car rental,Transport
+2025-07-11 06:36:22.250215,780.82,iCare Dental,Gym membership,Health
+2025-06-08 10:20:34.621749,297.52,Caring Pharmacy,Health screening,Health
+2024-12-01 21:57:09.677747,118.48,KLIA Transit,Train ticket,Transport
+2025-05-13 07:37:31.667121,107.61,Setel,Ride to work,Transport
+2024-12-12 08:08:20.577565,1782.33,Kinokuniya,Sporting goods,Shopping
+2024-09-22 09:56:14.566091,416.34,Klinik Mediviron,Vitamins purchase,Health
+2025-03-10 03:15:32.289006,94.82,OldTown White Coffee,Morning coffee,Food & Drink
+2025-03-23 14:32:55.249914,644.58,Apple Store,Skincare haul,Shopping
+2025-02-27 03:08:10.731644,69.94,Village Grocer,Restocking pantry,Groceries
+2025-06-24 03:10:49.026911,12.16,Digi,Cable TV subscription,Bills & Utilities
+2025-07-31 10:14:40.808366,6785.84,Uniqlo,Gift for friend,Shopping
+2024-12-09 06:38:58.426415,549.3,TGV Cinemas,Magazine subscription,Entertainment
+2024-12-23 16:39:05.021131,24.99,Grab,Ride to work,Transport
+2025-02-09 10:04:48.307101,7642.32,Mid Valley Megamall,Book purchase,Shopping
+2024-11-25 00:34:46.078313,31.72,Tealive,Supper,Food & Drink
+2025-07-06 22:15:36.752036,653.79,Fitness First,Specialist consultation,Health
+2025-07-16 18:52:52.932167,595.4,PlayStation Store,Live event,Entertainment
+2025-02-02 09:43:56.754059,12.64,Zus Coffee,Team lunch,Food & Drink
+2025-02-23 23:48:11.314128,38.7,The Alley,Dinner takeout,Food & Drink
+2025-05-15 19:19:40.223904,125.16,The Alley,Boba tea,Food & Drink
+2025-05-30 02:18:25.340009,41.36,AirAsia Ride,Road trip fuel,Transport
+2024-10-08 10:21:01.626511,66.41,myNEWS,Baking supplies,Groceries
+2024-10-26 18:27:25.022024,34.67,Sushi King,Business lunch,Food & Drink
+2024-10-12 15:54:17.053763,4720.6,IKEA,Home decor,Shopping
+2025-06-26 01:24:58.951390,106.83,AEON,Buying snacks,Groceries
+2025-06-21 04:41:21.513474,4619.6,Padini,Home decor,Shopping
+2024-11-24 04:03:04.100368,51.74,AirAsia Ride,Bus fare,Transport
+2025-05-17 17:10:18.227594,201.77,myNEWS,Fresh produce,Groceries
+2024-12-02 13:09:52.828047,33.68,AirAsia Ride,Toll payment,Transport
+2024-10-26 07:01:19.187231,164.44,Fitness First,Gym membership,Health
+2025-01-22 05:25:19.443583,162.17,Disney+ Hotstar,Monthly subscription,Bills & Utilities
+2025-06-28 07:42:38.740477,148.43,Naiise,Coffee meeting,Food & Drink
+2024-10-31 01:47:24.546179,85.07,Petronas,Airport transfer,Transport
+2025-01-04 20:31:19.971084,9.49,Setel,Car rental,Transport
+2024-12-10 08:33:13.637530,335.64,Anytime Fitness,Specialist consultation,Health
+2025-03-23 12:16:48.266878,80.61,BMS Organics,Buying snacks,Groceries
+2024-11-14 08:45:47.537714,102.29,Secret Recipe,Team lunch,Food & Drink
+2025-02-01 10:47:22.869374,27.44,MyCar,Ride to work,Transport
+2024-12-25 00:21:58.746039,1383.03,Courts Mammoth,Appliance upgrade,Shopping
+2025-02-05 12:14:56.347843,198.91,Lotus's,Toiletries,Groceries
+2024-12-31 01:17:56.644789,85.81,Ticketmaster,Concert tickets,Entertainment
+2025-02-01 20:05:14.847463,110.18,Nando's,Coffee meeting,Food & Drink
+2025-06-23 06:44:18.226192,315.0,Air Selangor,Monthly subscription,Bills & Utilities
+2024-08-06 07:41:46.744062,134.92,McDonald's,Morning coffee,Food & Drink
+2024-10-02 12:24:11.661240,73.83,Jaya Grocer,Beverages and snacks,Groceries
+2025-02-10 18:04:26.719866,135.85,GSC Cinemas,Family outing,Entertainment
+2024-10-20 21:03:40.694904,86.85,Ticketmaster,Magazine subscription,Entertainment
+2024-08-10 17:11:48.090077,243.28,99 Speedmart,Fresh produce,Groceries
+2025-08-01 16:52:29.888772,94.47,The Alley,Morning coffee,Food & Drink
+2024-12-22 12:14:47.455485,26.21,Subway,Dessert,Food & Drink
+2024-08-15 11:31:47.663230,98.11,PappaRich,Coffee meeting,Food & Drink
+2024-09-03 17:01:05.410301,256.87,KidZania,Theme park tickets,Entertainment
+2025-08-03 01:28:21.834279,166.37,Giant,Baking supplies,Groceries
+2025-01-24 00:51:05.732586,119.38,Tealive,Dessert,Food & Drink
+2025-07-10 12:53:58.062254,43.02,Watsons,Over-the-counter meds,Health
+2025-02-25 11:08:06.964817,446.13,Sunway Medical Centre,Specialist consultation,Health
+2024-10-29 01:37:18.803846,623.79,Watsons,Doctor's visit,Health
+2025-03-18 16:08:47.344598,7864.01,BookXcess,Online order,Shopping
+2025-06-11 11:03:42.766117,151.85,Village Grocer,Fresh produce,Groceries
+2025-05-11 19:17:20.918826,64.21,Gong Cha,Lunch with colleagues,Food & Drink
+2025-03-30 05:53:43.680018,272.94,Spotify,Gas bill,Bills & Utilities
+2025-04-05 20:48:28.168321,109.88,Shell,Fuel top-up,Transport
+2024-08-15 21:49:12.877783,66.63,Guardian,Doctor's visit,Health
+2024-12-30 15:17:12.433144,131.16,YouTube Premium,Sewerage bill,Bills & Utilities
+2024-12-24 13:13:52.673510,8.11,Secret Recipe,Business lunch,Food & Drink
+2025-07-26 15:20:10.104504,120.48,Subway,Quick bite,Food & Drink
+2024-10-21 12:45:14.304172,92.27,Checkers Hypermarket,Bulk buying,Groceries
+2024-10-20 20:58:35.496452,483.4,YouTube Premium,Monthly subscription,Bills & Utilities
+2025-03-25 02:40:47.565316,573.69,Guardian,Annual health check,Health
+2024-08-19 09:34:35.751231,117.49,Unifi,Cloud storage fee,Bills & Utilities
+2024-10-30 23:48:36.937182,222.92,PlayStation Store,Theme park tickets,Entertainment
+2025-05-27 14:44:39.642044,65.8,Tealive,Coffee meeting,Food & Drink
+2024-12-16 02:52:12.866751,302.55,Village Grocer,Beverages and snacks,Groceries
+2025-02-11 01:15:00.909581,173.97,Village Grocer,Fresh produce,Groceries
+2025-02-27 07:17:05.308012,85.96,Village Grocer,Household items,Groceries
+2025-06-06 05:51:46.949968,416.63,TGV Cinemas,Karaoke session,Entertainment
+2024-09-21 12:04:54.868576,354.56,Unifi,Water bill,Bills & Utilities
+2025-05-14 03:43:23.065422,572.4,KidZania,Weekend movie,Entertainment
+2024-10-07 06:38:07.390923,85.34,MRT,Car rental,Transport
+2025-01-20 18:14:43.306746,605.77,Alpro Pharmacy,Prescription medicine,Health
+2024-10-29 18:14:47.425740,85.19,Secret Recipe,Dessert,Food & Drink
+2025-07-01 16:19:59.922904,84.77,Indah Water Konsortium,Sewerage bill,Bills & Utilities
+2024-09-04 04:05:15.658225,8.59,KLIA Transit,Bus fare,Transport
+2024-11-22 18:37:51.164130,190.84,Maxis,Monthly subscription,Bills & Utilities
+2025-05-26 18:05:21.842025,3709.83,Shopee,Gadget purchase,Shopping
+2024-11-26 02:47:39.243101,100.89,Touch 'n Go eWallet,Road trip fuel,Transport
+2025-01-16 20:47:39.750190,306.46,Lotus's,Baking supplies,Groceries
+2025-01-21 12:19:22.410879,439.48,Indah Water Konsortium,Water bill,Bills & Utilities
+2025-02-17 14:54:05.097792,54.54,Petronas,Airport commute,Transport
+2024-09-04 00:51:14.736817,124.52,Astro,Cloud storage fee,Bills & Utilities
+2024-12-22 00:52:53.807636,4718.5,Padini,Fashion accessories,Shopping
+2025-06-12 06:51:49.621956,374.58,Sunway Medical Centre,Skincare products,Health
+2024-09-18 14:35:59.280260,2725.85,Shopee,Gift for friend,Shopping
+2024-10-13 05:57:22.456701,56.89,SOCAR,Bus fare,Transport
+2025-05-03 17:41:52.152004,129.58,Jaya Grocer,Organic food purchase,Groceries
+2025-03-15 23:36:27.867623,532.15,PlayStation Store,Concert tickets,Entertainment
+2024-10-07 14:41:51.264673,120.38,Celcom,Sewerage bill,Bills & Utilities
+2025-02-06 03:19:12.816478,68.56,GrabCar,Car rental,Transport
+2024-09-21 01:57:19.657887,20.63,Jaya Grocer,Baking supplies,Groceries
+2025-07-12 18:37:38.815332,61.17,Setel,Parking fee,Transport
+2024-12-31 04:16:52.644534,115.86,Jaya Grocer,Toiletries,Groceries
+2024-08-20 03:30:08.086079,158.38,Steam Games,Weekend movie,Entertainment
+2024-10-10 06:59:24.760477,206.64,Watsons,Skincare products,Health
+2024-09-22 05:10:33.958910,8817.81,Mid Valley Megamall,Skincare haul,Shopping
+2024-08-17 02:14:43.777910,358.97,Astro,Music streaming,Bills & Utilities
+2025-03-22 05:04:30.495244,17.7,Shell,E-hailing service,Transport
+2024-09-01 15:21:35.456647,168.4,Celcom,Gas bill,Bills & Utilities
+2025-08-02 12:13:01.054915,63.12,Digi,Gas bill,Bills & Utilities
+2024-10-26 18:02:58.997870,49.05,Zus Coffee,Lunch with colleagues,Food & Drink
+2024-11-05 06:03:35.116258,201.65,99 Speedmart,Beverages and snacks,Groceries
+2025-01-22 09:45:52.481902,405.53,Celcom,Streaming service,Bills & Utilities
+2025-05-12 00:09:10.078491,141.26,Nando's,Morning coffee,Food & Drink
+2025-07-25 07:42:05.939527,3854.5,Mid Valley Megamall,Furniture purchase,Shopping
+2025-02-08 11:48:07.961014,114.02,GrabCar,Car rental,Transport
+2024-12-28 12:20:48.653492,150.52,Redbox Karaoke,Video game subscription,Entertainment
+2025-06-25 07:03:19.988919,41.37,MRT,Road trip fuel,Transport
+2024-12-07 15:40:30.029517,292.58,Unifi,Audiobook credit,Bills & Utilities
+2025-01-07 04:47:21.243540,70.85,KLIA Ekspres,Public transport pass,Transport
+2024-09-13 02:54:34.896957,44.16,GoCar,Airport commute,Transport
+2025-03-21 01:52:24.023982,5.15,Waze,Airport transfer,Transport
+2025-03-17 11:22:50.828753,111.95,Jaya Grocer,Restocking pantry,Groceries
+2025-04-16 01:15:58.748354,115.65,FamilyMart,Ice cream treat,Food & Drink
+2024-09-19 05:41:54.208705,588.3,Sunway Lagoon,Magazine subscription,Entertainment
+2024-10-16 22:05:01.360007,361.09,Cold Storage,Organic food purchase,Groceries
+2025-07-31 01:37:17.414768,772.17,Pantai Hospital,First aid supplies,Health
+2024-11-01 16:54:44.590709,260.36,Genting SkyWorlds,Karaoke session,Entertainment
+2025-05-01 23:57:15.529779,9426.71,H&M,Stationery supplies,Shopping
+2025-03-14 12:34:13.024351,305.17,Klinik Mediviron,Doctor's visit,Health
+2025-06-15 01:12:34.797578,184.49,Spotify,Audiobook credit,Bills & Utilities
+2024-12-10 01:19:52.507569,13.21,Pizza Hut,Ice cream treat,Food & Drink
+2025-05-28 00:37:33.297823,122.36,Redbox Karaoke,Live event,Entertainment
+2025-06-12 19:29:17.868048,72.77,Audible,Phone bill,Bills & Utilities
+2024-09-19 04:41:19.674559,4690.76,BookXcess,Home decor,Shopping
+2024-11-25 12:27:14.555684,257.26,AEON,Weekly groceries,Groceries
+2025-05-28 20:51:30.788565,8525.64,IKEA,Online order,Shopping
+2025-02-20 10:25:09.161884,198.64,Pantai Hospital,Specialist consultation,Health
+2024-11-20 04:30:30.814219,26.93,Waze,Fuel top-up,Transport
+2025-07-08 02:48:48.886226,49.65,Astro,Phone bill,Bills & Utilities
+2025-01-29 18:52:10.556170,4322.27,Padini,Electronics purchase,Shopping
+2024-10-01 06:23:06.681844,38.0,FamilyMart,Quick bite,Food & Drink
+2024-09-04 22:50:56.263702,356.29,Redbox Karaoke,Video game subscription,Entertainment
+2025-03-18 18:00:37.340609,208.38,Giant,Household items,Groceries
+2025-05-10 12:40:51.623780,306.53,PlayStation Store,Concert tickets,Entertainment
+2025-01-14 00:26:46.996221,90.31,McDonald's,Quick bite,Food & Drink
+2025-07-26 20:41:54.616896,445.8,Astro,Gas bill,Bills & Utilities
+2025-06-26 19:09:54.058729,189.03,PlayStation Store,Concert tickets,Entertainment
+2025-04-24 08:18:27.383172,7975.6,Apple Store,Electronics purchase,Shopping
+2024-08-11 18:19:35.664096,590.75,GSC Cinemas,Family outing,Entertainment
+2024-10-08 18:33:27.182042,51.46,Grab,Car rental,Transport
+2024-11-06 13:11:47.413744,423.42,Lazada,Gadget purchase,Shopping
+2024-12-24 03:42:12.839625,232.57,Pantai Hospital,Doctor's visit,Health
+2025-03-07 03:55:26.469798,149.61,PappaRich,Dinner takeout,Food & Drink
+2025-07-28 07:19:45.745084,670.87,Klinik Mediviron,Dental check-up,Health
+2025-01-18 00:44:21.071915,737.81,iCare Dental,First aid supplies,Health
+2025-01-25 12:21:57.929646,217.4,Steam Games,Concert tickets,Entertainment
+2025-07-02 04:45:24.968320,95.8,SOCAR,Toll payment,Transport
+2024-10-26 22:45:10.993192,105.76,Zus Coffee,Business lunch,Food & Drink
+2024-10-18 01:03:14.187362,324.11,Jaya Grocer,Restocking pantry,Groceries
+2025-02-03 02:17:12.821466,80.24,Waze,Parking fee,Transport
+2025-04-27 12:24:09.628937,54.48,Setel,Fuel top-up,Transport
+2025-03-12 12:11:21.965424,382.37,Econsave,Fresh produce,Groceries
+2025-06-11 10:27:46.879669,239.52,Air Selangor,Cable TV subscription,Bills & Utilities
+2024-09-05 17:24:10.752700,134.57,Naiise,Weekend brunch,Food & Drink
+2025-02-03 14:37:48.651783,250.47,Netflix,Music streaming,Bills & Utilities
+2025-06-25 23:54:32.125519,103.54,FamilyMart,Morning coffee,Food & Drink
+2024-08-28 09:09:11.140557,7747.62,Shopee,Fashion accessories,Shopping
+2025-06-25 00:26:00.212254,149.65,Starbucks,Quick bite,Food & Drink
+2024-08-12 18:53:26.660490,12.45,Mamak ABC,Business lunch,Food & Drink
+2025-01-19 20:11:42.698311,196.03,Sunway Lagoon,Weekend movie,Entertainment
+2024-09-02 18:59:49.457055,275.6,Cold Storage,Weekly groceries,Groceries
+2024-10-03 01:48:45.391785,380.5,PlayStation Store,Karaoke session,Entertainment
+2025-06-13 14:23:19.194005,9743.26,BookXcess,New clothes,Shopping
+2025-04-20 20:01:18.238436,351.78,Redbox Karaoke,In-game purchase,Entertainment
+2025-06-25 00:17:14.763091,4623.1,Harvey Norman,Sporting goods,Shopping
+2025-04-04 03:16:21.140023,68.15,Petronas,Parking fee,Transport
+2025-05-12 23:57:57.193506,8.08,Boost Juice,Team lunch,Food & Drink
+2025-01-28 14:10:07.854455,32.53,MyCar,Airport transfer,Transport
+2025-05-14 05:22:36.666630,54.56,Guardian,Skincare products,Health
+2024-10-07 04:41:57.019550,73.73,OldTown White Coffee,Supper,Food & Drink
+2024-10-21 14:38:18.100202,117.68,Secret Recipe,Team lunch,Food & Drink
+2024-11-29 05:01:50.430845,80.52,Celcom,Phone bill,Bills & Utilities
+2025-04-08 00:59:50.659376,100.44,Sephora,Electronics purchase,Shopping
+2025-01-01 02:58:29.564235,691.55,Pantai Hospital,Skincare products,Health
+2025-06-20 11:49:39.224189,78.65,KLIA Transit,Parking fee,Transport
+2024-11-02 18:21:32.938947,498.6,Indah Water Konsortium,Water bill,Bills & Utilities
+2024-12-08 09:06:41.784278,98.12,Grab,E-hailing service,Transport
+2025-01-24 20:54:31.906865,183.89,Cold Storage,Fresh produce,Groceries
+2025-03-02 16:17:30.064924,5.81,Pizza Hut,Ice cream treat,Food & Drink
+2024-11-17 04:10:24.404025,295.48,Lotus's,Bulk buying,Groceries
+2025-05-20 16:21:18.822710,501.43,KidZania,Concert tickets,Entertainment
+2025-03-14 03:13:27.127817,19.61,Pantai Hospital,Over-the-counter meds,Health
+2025-06-22 05:58:53.588067,314.86,Econsave,Dairy and eggs,Groceries
+2025-06-06 18:00:30.699814,57.42,Waze,Ride to work,Transport
+2025-07-26 11:35:04.034463,8628.8,H&M,New clothes,Shopping
+2024-08-27 14:02:03.787051,268.34,BIG Pharmacy,Prescription medicine,Health
+2025-06-14 16:11:05.884846,106.24,Touch 'n Go eWallet,Parking fee,Transport
+2024-08-11 22:31:36.010403,311.23,Caring Pharmacy,Health screening,Health
+2025-05-07 13:13:02.806079,84.95,Zus Coffee,Morning coffee,Food & Drink
+2025-05-01 02:12:54.701185,543.36,Ticketmaster,Magazine subscription,Entertainment
+2025-06-19 08:00:42.516022,347.11,Pantai Hospital,First aid supplies,Health
+2024-11-30 12:49:53.149254,55.69,KLIA Ekspres,Bus fare,Transport
+2024-09-04 04:49:58.353975,263.18,Guardian,Vitamins purchase,Health
+2025-07-03 06:18:04.058821,133.23,Boost Juice,Quick bite,Food & Drink
+2024-11-11 07:05:15.594334,64.18,Air Selangor,Phone bill,Bills & Utilities
+2025-07-11 21:18:41.639677,112.61,Cold Storage,Fresh produce,Groceries
+2025-05-01 05:44:18.989532,331.45,Jaya Grocer,Household items,Groceries
+2025-02-06 12:10:27.275460,4469.32,Sunway Pyramid,Appliance upgrade,Shopping
+2025-07-21 08:43:05.603202,59.25,Gong Cha,Team lunch,Food & Drink
+2025-05-28 07:43:38.348178,215.63,Jaya Grocer,Bulk buying,Groceries
+2024-10-19 13:42:36.878302,19.96,Chatime,Boba tea,Food & Drink
+2025-01-25 14:43:00.364598,110.64,Village Grocer,Baking supplies,Groceries
+2024-08-20 07:50:30.939471,108.59,Maxis,Mobile postpaid,Bills & Utilities
+2025-03-30 03:20:57.131292,70.63,Unifi,Mobile postpaid,Bills & Utilities
+2025-07-14 12:28:46.549755,7540.18,Harvey Norman,Home decor,Shopping
+2024-08-17 16:45:25.485668,60.03,KFC,Quick bite,Food & Drink
+2024-10-13 19:59:46.544413,129.82,Digi,Mobile postpaid,Bills & Utilities
+2024-11-30 22:30:31.285351,99.29,LRT Kelana Jaya,Fuel top-up,Transport
+2024-08-08 01:43:21.226997,63.77,Waze,Airport transfer,Transport
+2025-05-05 03:36:32.352206,367.15,Celcom,Electricity bill,Bills & Utilities
+2025-04-08 02:31:46.430922,212.32,KidZania,Online game purchase,Entertainment
+2025-04-07 00:43:58.470909,76.33,Naiise,Dinner takeout,Food & Drink
+2024-09-10 13:59:58.291169,454.23,Digi,Monthly subscription,Bills & Utilities
+2024-11-21 11:02:53.569908,102.99,Subway,Dinner takeout,Food & Drink
+2024-08-31 17:16:07.706769,4666.69,Mid Valley Megamall,Sporting goods,Shopping
+2024-10-02 01:03:51.588660,53.27,Naiise,Lunch with colleagues,Food & Drink
+2024-12-14 07:18:26.239069,1929.07,Uniqlo,Electronics purchase,Shopping
+2025-07-07 23:33:46.961782,2168.97,Zalora,Appliance upgrade,Shopping
+2025-06-16 03:48:50.188431,518.64,KidZania,Online game purchase,Entertainment
+2024-12-02 03:35:20.173611,74.26,OldTown White Coffee,Quick bite,Food & Drink
+2025-02-24 22:50:01.133950,36.53,KLIA Transit,E-hailing service,Transport
+2024-10-17 12:01:30.483425,85.08,Mamak ABC,Dessert,Food & Drink
+2025-02-15 05:53:20.933847,103.32,Petronas,Train ticket,Transport
+2025-06-23 21:43:58.141636,25.52,Starbucks,Morning coffee,Food & Drink
+2025-01-21 00:14:37.710223,101.06,Sushi King,Team lunch,Food & Drink
+2024-08-18 20:22:47.788939,334.81,Lotus's,Beverages and snacks,Groceries
+2025-02-15 19:44:58.630546,460.68,TGV Cinemas,Concert tickets,Entertainment
+2025-03-20 15:31:09.330350,73.44,KLIA Transit,Parking fee,Transport
+2025-04-06 08:14:37.737937,120.46,YouTube Premium,Gas bill,Bills & Utilities
+2025-06-27 13:57:33.103906,53.62,FamilyMart,Morning coffee,Food & Drink
+2024-09-24 04:26:03.116488,121.07,KFC,Supper,Food & Drink
+2025-01-19 06:45:03.797472,226.1,Sunway Medical Centre,Over-the-counter meds,Health
+2025-01-14 10:47:30.635558,396.21,Maxis,Streaming service,Bills & Utilities
+2025-03-29 00:53:58.797086,286.64,Audible,Mobile postpaid,Bills & Utilities
+2024-11-22 22:08:36.724371,2338.39,BookXcess,Fashion accessories,Shopping
+2025-05-22 06:51:32.786067,123.56,Nando's,Dessert,Food & Drink
+2024-11-11 14:20:27.730811,5878.76,Zalora,Online order,Shopping
+2024-08-30 07:18:05.896645,304.66,Pantai Hospital,Vitamins purchase,Health
+2025-02-02 15:09:25.427772,339.98,PlayStation Store,Weekend movie,Entertainment
+2025-06-30 04:15:47.095839,293.44,Disney+ Hotstar,Streaming service,Bills & Utilities
+2025-02-15 22:39:36.933270,292.97,Maxis,Sewerage bill,Bills & Utilities
+2025-04-22 02:51:42.553038,424.88,Air Selangor,Streaming service,Bills & Utilities
+2024-12-10 11:48:54.964540,634.62,Watsons,Dental check-up,Health
+2024-10-24 00:00:26.211930,101.42,McDonald's,Coffee meeting,Food & Drink
+2025-04-24 02:34:43.123318,102.48,Touch 'n Go eWallet,Public transport pass,Transport
+2024-09-24 03:36:54.330137,425.16,Unifi,Monthly subscription,Bills & Utilities
+2024-12-01 01:21:47.558733,391.3,PlayStation Store,Karaoke session,Entertainment
+2025-06-18 01:30:33.204026,88.1,MyCar,Parking fee,Transport
+2025-07-22 01:58:45.420192,355.01,Disney+ Hotstar,Electricity bill,Bills & Utilities
+2024-10-29 19:31:15.272813,73.82,Setel,Ride to work,Transport
+2024-11-24 17:51:26.454165,3591.89,Apple Store,Electronics purchase,Shopping
+2025-01-13 18:14:38.602710,2401.91,H&M,Electronics purchase,Shopping
+2024-10-14 18:11:16.007749,3439.5,Kinokuniya,Shopping at mall,Shopping
+2024-10-30 22:30:26.790398,242.12,Disney+ Hotstar,Internet bill,Bills & Utilities
+2025-02-27 14:11:02.997082,455.63,Audible,Audiobook credit,Bills & Utilities
+2024-09-25 20:40:29.526156,70.67,Checkers Hypermarket,Toiletries,Groceries
+2025-04-30 22:50:49.148844,360.67,TGV Cinemas,Live event,Entertainment
+2025-02-28 19:18:58.000214,57.56,Disney+ Hotstar,Music streaming,Bills & Utilities
+2024-12-04 11:48:01.856328,136.49,Spotify,Internet bill,Bills & Utilities
+2025-03-10 14:13:23.438341,5694.14,Mid Valley Megamall,Furniture purchase,Shopping
+2024-11-15 00:10:08.803851,59.25,LRT Kelana Jaya,Train ticket,Transport
+2024-10-11 07:22:53.632167,105.27,Spotify,Audiobook credit,Bills & Utilities
+2025-06-08 22:12:54.052393,79.99,Village Grocer,Baking supplies,Groceries
+2024-09-17 18:19:49.677896,273.16,Netflix,Cloud storage fee,Bills & Utilities
+2025-05-28 15:39:41.376964,3479.05,Lazada,Skincare haul,Shopping
+2025-06-21 01:04:18.185414,584.08,Redbox Karaoke,In-game purchase,Entertainment
+2024-08-31 20:55:36.516798,718.17,BIG Pharmacy,Health screening,Health
+2025-03-22 20:52:59.321272,151.01,Astro,Streaming service,Bills & Utilities
+2025-02-05 08:55:00.095240,542.68,KidZania,Theme park tickets,Entertainment
+2025-01-13 14:15:17.350810,712.07,BIG Pharmacy,Vitamins purchase,Health
+2025-03-27 02:33:39.046839,78.86,Starbucks,Ice cream treat,Food & Drink
+2024-12-13 19:25:05.488792,77.97,GrabCar,Toll payment,Transport
+2025-01-10 21:51:49.650264,106.54,MyCar,Parking fee,Transport
+2025-04-25 03:17:03.304705,8681.02,Harvey Norman,New clothes,Shopping
+2025-03-07 22:40:58.222776,65.92,Subway,Coffee meeting,Food & Drink
+2025-05-29 03:56:02.917251,290.69,Genting SkyWorlds,Video game subscription,Entertainment
+2025-03-10 03:45:34.295298,129.48,Boost Juice,Business lunch,Food & Drink
+2025-06-23 04:03:27.195644,251.78,Ticketmaster,Weekend movie,Entertainment
+2025-02-20 20:34:43.977429,196.41,Steam Games,Video game subscription,Entertainment
+2024-08-25 15:24:30.869557,261.87,BIG Pharmacy,Specialist consultation,Health
+2025-04-15 15:37:46.907681,482.09,Anytime Fitness,Specialist consultation,Health
+2024-11-19 16:40:51.837111,616.22,Klinik Mediviron,Vitamins purchase,Health
+2024-09-03 21:01:34.910284,5889.22,BookXcess,Online order,Shopping
+2025-01-10 08:31:55.743489,6999.52,Sephora,Book purchase,Shopping
+2024-10-15 07:31:52.181720,75.58,Pizza Hut,Weekend brunch,Food & Drink
+2025-07-13 13:57:43.482609,36.28,Gong Cha,Coffee meeting,Food & Drink
+2025-02-02 15:00:55.220210,98.07,PappaRich,Lunch with colleagues,Food & Drink
+2025-05-01 20:31:55.583703,296.93,Jaya Grocer,Fresh produce,Groceries
+2024-08-11 05:39:43.775400,117.93,BIG Pharmacy,Prescription medicine,Health
+2025-07-30 08:25:48.925141,151.37,Genting SkyWorlds,Karaoke session,Entertainment
+2025-02-06 09:00:16.066666,321.54,Netflix,Monthly subscription,Bills & Utilities
+2024-12-08 20:00:33.373628,71.57,TGV Cinemas,Weekend movie,Entertainment
+2024-12-24 04:11:57.455833,6936.79,IKEA,Electronics purchase,Shopping
+2025-03-13 09:43:45.494041,596.47,KidZania,Family outing,Entertainment
+2024-10-24 11:24:02.155203,495.99,GSC Cinemas,Family outing,Entertainment
+2024-08-28 04:12:15.872567,90.15,99 Speedmart,Organic food purchase,Groceries
+2025-02-10 16:51:51.672479,578.36,KidZania,Theme park tickets,Entertainment
+2025-03-24 09:02:09.205274,6286.45,Zara,Online order,Shopping
+2025-02-03 01:00:21.812628,326.14,Digi,Electricity bill,Bills & Utilities
+2025-02-20 16:13:20.594086,387.28,Lotus's,Dairy and eggs,Groceries
+2024-08-23 07:29:01.634951,160.41,Jaya Grocer,Bulk buying,Groceries
+2024-11-04 03:24:11.839456,190.47,Sunway Medical Centre,Doctor's visit,Health
+2024-09-12 07:40:18.397066,78.03,Domino's Pizza,Weekend brunch,Food & Drink
+2024-10-30 09:12:30.699691,119.62,Shell,Airport commute,Transport
+2025-04-06 07:31:55.982961,52.98,Setel,Ride to work,Transport
+2024-09-02 19:05:22.710132,380.29,Anytime Fitness,Dental check-up,Health
+2025-04-13 21:28:21.078894,122.74,OldTown White Coffee,Team lunch,Food & Drink
+2025-01-31 09:40:34.609293,371.8,Jaya Grocer,Weekly groceries,Groceries
+2025-01-30 16:48:42.756129,51.7,MyCar,Parking fee,Transport
+2025-05-05 03:54:05.709140,430.08,Indah Water Konsortium,Mobile postpaid,Bills & Utilities
+2025-01-16 01:27:30.838229,63.94,Maxis,Mobile postpaid,Bills & Utilities
+2025-05-03 00:02:10.574929,8018.21,IKEA,Sporting goods,Shopping
+2024-10-14 22:37:21.944452,296.19,Steam Games,Online game purchase,Entertainment
+2025-04-20 21:37:45.658809,394.14,Jaya Grocer,Fresh produce,Groceries
+2025-05-19 10:41:19.963794,216.73,Ticketmaster,Online game purchase,Entertainment
+2025-06-20 07:53:55.047496,15.54,Petronas,Parking fee,Transport
+2025-07-09 11:24:09.687185,288.28,Village Grocer,Fresh produce,Groceries
+2024-12-17 02:33:42.760939,18.68,YouTube Premium,Mobile postpaid,Bills & Utilities
+2025-07-29 18:18:02.806882,393.06,Fitness First,Prescription medicine,Health
+2024-08-27 11:45:07.568802,7.46,Pizza Hut,Business lunch,Food & Drink
+2024-12-17 19:28:17.503720,21.53,Boost Juice,Quick bite,Food & Drink
+2025-05-02 00:26:11.301101,2507.94,Kinokuniya,Fashion accessories,Shopping
+2025-05-19 17:04:57.326219,25.36,Starbucks,Dessert,Food & Drink
+2024-08-15 04:29:48.359230,9.57,Gong Cha,Supper,Food & Drink
+2024-12-11 18:46:41.307907,75.74,Naiise,Lunch with colleagues,Food & Drink
+2024-09-29 06:43:37.827175,345.54,Giant,Fresh produce,Groceries
+2024-11-15 14:12:12.778932,91.33,Touch 'n Go eWallet,Airport transfer,Transport
+2025-04-04 12:51:42.302803,57.48,Grab,Car rental,Transport
+2025-01-10 16:29:41.736404,6080.21,Padini,Appliance upgrade,Shopping
+2025-04-26 17:34:44.512886,58.6,Gong Cha,Business lunch,Food & Drink
+2024-11-17 10:37:17.085418,332.07,Disney+ Hotstar,Cloud storage fee,Bills & Utilities
+2024-11-06 21:17:44.190851,5040.41,Padini,Shopping at mall,Shopping
+2025-06-16 08:21:53.568808,2838.83,Uniqlo,Sporting goods,Shopping
+2024-11-02 16:39:26.796512,125.44,Spotify,Mobile postpaid,Bills & Utilities
+2024-11-04 13:35:35.992180,321.48,Indah Water Konsortium,Cable TV subscription,Bills & Utilities
+2025-06-14 12:11:55.154771,303.11,Checkers Hypermarket,Beverages and snacks,Groceries
+2024-08-19 05:08:04.609298,246.79,Giant,Baking supplies,Groceries
+2024-08-19 21:20:01.500279,16.79,McDonald's,Coffee meeting,Food & Drink
+2024-09-09 06:51:38.164269,154.41,Genting SkyWorlds,Family outing,Entertainment
+2025-04-14 01:55:25.800217,140.08,Lotus's,Dairy and eggs,Groceries
+2024-12-22 09:03:42.428488,409.28,Redbox Karaoke,Movie tickets,Entertainment
+2024-11-28 17:13:26.791908,64.47,The Alley,Dinner takeout,Food & Drink
+2024-12-28 06:41:04.670245,4048.68,Lazada,Skincare haul,Shopping
+2025-05-26 12:32:18.698125,163.43,BMS Organics,Fresh produce,Groceries
+2024-09-14 18:31:15.107625,4277.24,Sunway Pyramid,Gadget purchase,Shopping
+2025-02-01 19:21:57.563339,85.5,KLIA Transit,Road trip fuel,Transport
+2025-04-05 16:54:59.147957,495.93,BIG Pharmacy,Vitamins purchase,Health
+2024-09-04 16:14:32.574084,117.33,Secret Recipe,Business lunch,Food & Drink
+2024-09-28 19:05:55.783059,55.0,Celcom,Electricity bill,Bills & Utilities
+2025-01-13 02:54:50.444482,35.42,MyCar,Ride to work,Transport
+2025-01-19 22:05:30.653647,259.13,Celcom,Electricity bill,Bills & Utilities
+2025-02-06 02:54:20.764757,407.4,KidZania,Magazine subscription,Entertainment
+2025-02-08 21:51:03.355270,156.86,Astro,Mobile postpaid,Bills & Utilities
+2025-03-17 00:26:32.518820,815.94,Sephora,Fashion accessories,Shopping
+2025-03-07 16:36:51.154760,2616.73,IKEA,New clothes,Shopping
+2024-10-07 14:12:37.529438,109.97,Waze,Parking fee,Transport
+2025-04-04 14:39:49.870485,130.53,Cold Storage,Bulk buying,Groceries
+2025-03-29 18:28:50.200987,356.39,AEON,Weekly groceries,Groceries
+2024-09-25 02:48:51.627250,104.25,Pizza Hut,Ice cream treat,Food & Drink
+2025-01-05 11:43:31.562538,373.77,Genting SkyWorlds,Online game purchase,Entertainment
+2024-08-22 19:53:29.206552,339.43,Anytime Fitness,Over-the-counter meds,Health
+2025-03-10 04:32:54.939107,149.07,Checkers Hypermarket,Restocking pantry,Groceries
+2025-04-05 19:45:14.427790,257.98,Genting SkyWorlds,Video game subscription,Entertainment
+2025-07-04 14:08:28.023885,57.16,Starbucks,Healthy smoothie,Food & Drink
+2025-01-12 01:01:12.152414,8369.58,Mid Valley Megamall,Online order,Shopping
+2025-07-01 05:22:27.036621,45.55,Lotus's,Buying snacks,Groceries
+2025-04-09 00:48:31.081071,94.56,Touch 'n Go eWallet,Ride to work,Transport
+2025-01-04 17:18:12.836836,114.69,KLIA Ekspres,Train ticket,Transport
+2024-09-17 19:42:22.575978,59.19,Subway,Team lunch,Food & Drink
+2024-08-10 00:48:02.276167,301.06,Celcom,Internet bill,Bills & Utilities
+2025-02-04 11:00:59.181424,232.36,Zalora,Gadget purchase,Shopping
+2025-01-07 08:52:24.810436,2233.72,BookXcess,Furniture purchase,Shopping
+2025-07-13 14:53:53.523256,261.32,iCare Dental,Annual health check,Health
+2024-09-30 11:49:29.026253,112.73,GrabCar,Ride to work,Transport
+2025-04-28 09:35:32.999573,9377.7,Decathlon,New clothes,Shopping
+2024-10-19 02:45:19.132585,177.59,Maxis,Cable TV subscription,Bills & Utilities
+2025-04-08 02:17:12.187564,10.16,Boost Juice,Morning coffee,Food & Drink
+2025-01-31 09:28:06.624352,142.43,NSK Trade City,Restocking pantry,Groceries
+2025-05-03 17:34:50.124439,255.8,GSC Cinemas,Movie tickets,Entertainment
+2025-02-08 06:01:19.383979,5420.47,Mid Valley Megamall,Stationery supplies,Shopping
+2025-01-23 09:18:39.792607,726.86,Guardian,Vitamins purchase,Health
+2024-12-27 12:41:13.716970,199.96,Cold Storage,Buying snacks,Groceries
+2025-03-14 03:09:26.299050,337.57,Harvey Norman,Fashion accessories,Shopping
+2024-08-15 01:41:52.749461,725.8,Alpro Pharmacy,Specialist consultation,Health
+2025-04-10 19:40:52.072177,2795.87,Courts Mammoth,Home decor,Shopping
+2024-11-06 05:33:05.939378,126.65,Secret Recipe,Dinner takeout,Food & Drink
+2025-06-12 22:05:35.606323,23.89,myNEWS,Toiletries,Groceries
+2024-08-10 22:12:47.452796,22.36,Nando's,Supper,Food & Drink
+2024-10-30 01:22:07.526796,469.15,Klinik Mediviron,Health screening,Health
+2024-08-24 17:32:55.691368,139.1,NSK Trade City,Restocking pantry,Groceries
+2024-10-07 08:37:16.232686,634.29,Fitness First,Gym membership,Health
+2024-08-17 14:32:57.783722,239.88,TGV Cinemas,Live event,Entertainment
+2025-05-31 21:17:58.355325,252.53,Giant,Fresh produce,Groceries
+2024-12-27 06:34:21.135928,772.71,Caring Pharmacy,Annual health check,Health
+2025-04-22 06:09:49.775307,341.5,Cold Storage,Beverages and snacks,Groceries
+2025-01-28 04:54:32.843002,23.11,Zus Coffee,Business lunch,Food & Drink
+2025-01-05 09:01:38.766620,119.72,Lotus's,Toiletries,Groceries
+2025-03-25 08:51:33.386513,228.76,NSK Trade City,Household items,Groceries
+2025-07-21 18:01:36.764146,141.08,Giant,Fresh produce,Groceries
+2025-04-07 19:44:53.516139,472.45,Netflix,Music streaming,Bills & Utilities
+2025-01-22 15:45:33.711029,567.67,Steam Games,Family outing,Entertainment
+2025-04-13 20:51:18.839869,530.22,TGV Cinemas,Weekend movie,Entertainment
+2025-02-12 11:40:05.886495,238.81,Steam Games,In-game purchase,Entertainment
+2025-06-08 18:30:59.894741,66.87,Domino's Pizza,Dessert,Food & Drink
+2024-09-05 10:22:13.278629,574.61,Caring Pharmacy,Vitamins purchase,Health
+2025-04-12 15:03:27.165492,29.9,KidZania,Theme park tickets,Entertainment
+2025-03-31 13:26:55.953779,75.41,PlayStation Store,Karaoke session,Entertainment
+2025-04-03 17:36:44.525040,9416.42,Mr. D.I.Y.,Home decor,Shopping
+2025-06-25 01:55:18.723935,438.51,Unifi,Sewerage bill,Bills & Utilities
+2025-07-01 07:33:31.399761,280.89,BMS Organics,Dairy and eggs,Groceries
+2025-06-17 20:12:38.234997,344.4,Watsons,Annual health check,Health
+2025-01-05 21:56:45.573481,320.68,Caring Pharmacy,First aid supplies,Health
+2025-01-07 23:08:06.745070,481.95,Watsons,Specialist consultation,Health
+2025-03-31 10:28:15.683103,75.56,PappaRich,Dessert,Food & Drink
+2025-03-25 22:06:37.484578,137.92,Celcom,Mobile postpaid,Bills & Utilities
+2025-07-10 14:54:57.013001,66.83,Touch 'n Go eWallet,Bus fare,Transport
+2024-09-30 05:51:09.809030,107.8,Touch 'n Go eWallet,Fuel top-up,Transport
+2025-04-20 07:47:39.506369,5715.06,Zara,Electronics purchase,Shopping
+2025-03-02 14:50:07.296378,258.02,Watsons,Vitamins purchase,Health
+2024-08-14 22:17:55.098954,59.17,MRT,Parking fee,Transport
+2025-03-27 16:27:30.052912,568.52,Klinik Mediviron,First aid supplies,Health
+2025-06-16 08:09:55.549019,274.9,YouTube Premium,Audiobook credit,Bills & Utilities
+2025-03-26 05:44:30.410166,54.11,McDonald's,Weekend brunch,Food & Drink
+2025-01-17 01:06:49.584569,602.11,Watsons,Specialist consultation,Health
+2025-06-07 01:40:13.733832,61.57,KLIA Ekspres,Fuel top-up,Transport
+2025-03-23 13:56:31.185542,145.02,KFC,Dessert,Food & Drink
+2025-01-09 17:03:55.202326,7544.48,Zalora,Home decor,Shopping
+2025-02-12 20:48:55.696409,71.65,Subway,Supper,Food & Drink
+2024-10-05 21:10:22.319627,192.43,Alpro Pharmacy,Specialist consultation,Health
+2024-08-14 13:36:02.218043,108.83,Grab,Toll payment,Transport
+2024-10-21 07:23:27.793919,279.35,GSC Cinemas,Theme park tickets,Entertainment
+2025-07-13 13:39:13.812469,124.55,Unifi,Gas bill,Bills & Utilities
+2025-07-31 21:31:41.431499,52.91,Lotus's,Baking supplies,Groceries
+2024-09-22 03:36:32.730726,453.09,Astro,Cable TV subscription,Bills & Utilities
+2025-01-27 04:24:34.835475,114.44,KLIA Transit,Car rental,Transport
+2025-05-15 21:39:40.837463,2349.14,Courts Mammoth,Home decor,Shopping
+2024-08-05 23:46:49.221136,8195.56,Padini,New clothes,Shopping
+2025-06-11 13:31:01.481862,141.67,Mamak ABC,Coffee meeting,Food & Drink
+2024-08-19 18:59:16.609167,23.12,Pizza Hut,Quick bite,Food & Drink
+2024-11-09 11:08:23.325581,5427.86,Mr. D.I.Y.,Furniture purchase,Shopping
+2025-07-29 05:36:02.407343,73.95,GrabCar,Car rental,Transport
+2025-07-27 06:09:49.529721,65.51,TGV Cinemas,Live event,Entertainment
+2025-07-02 07:44:11.048211,152.22,Genting SkyWorlds,Online game purchase,Entertainment
+2024-08-31 02:59:40.469454,133.9,Digi,Water bill,Bills & Utilities
+2025-04-16 06:26:33.937609,54.68,Anytime Fitness,Doctor's visit,Health
+2024-12-17 22:03:36.400961,571.89,iCare Dental,Annual health check,Health
+2025-02-26 17:36:42.501011,329.0,AEON,Bulk buying,Groceries
+2025-07-19 02:05:04.772803,495.68,Caring Pharmacy,Dental check-up,Health
+2025-03-08 15:10:57.889795,51.52,Unifi,Sewerage bill,Bills & Utilities
+2024-09-23 18:58:11.464317,73.83,Astro,Cloud storage fee,Bills & Utilities
+2024-12-09 22:16:03.224399,189.93,99 Speedmart,Fresh produce,Groceries
+2024-09-03 02:30:24.050153,144.74,McDonald's,Dinner takeout,Food & Drink
+2024-12-30 08:31:30.955175,701.58,Watsons,Skincare products,Health
+2025-05-19 14:29:52.316367,24.03,Waze,Train ticket,Transport
+2025-05-16 08:25:09.940436,8805.15,Uniqlo,Furniture purchase,Shopping
+2025-03-08 04:08:08.407086,421.99,IKEA,Electronics purchase,Shopping
+2025-01-17 09:41:34.083150,46.28,TIME Internet,Cable TV subscription,Bills & Utilities
+2025-01-13 19:22:57.299278,166.54,GSC Cinemas,Concert tickets,Entertainment
+2024-12-20 08:06:26.806289,38.2,PappaRich,Team lunch,Food & Drink
+2024-12-15 04:14:57.866770,279.13,PlayStation Store,Concert tickets,Entertainment
+2024-11-12 15:01:31.486724,319.2,TGV Cinemas,Movie tickets,Entertainment
+2024-08-15 08:18:32.120492,398.59,Disney+ Hotstar,Audiobook credit,Bills & Utilities
+2025-05-24 10:06:42.149148,217.75,Village Grocer,Organic food purchase,Groceries
+2025-03-31 07:41:30.810873,61.84,Burger King,Healthy smoothie,Food & Drink
+2024-12-04 03:53:38.051280,171.91,Sunway Lagoon,Live event,Entertainment
+2025-02-23 22:38:53.836234,81.78,KidZania,Online game purchase,Entertainment
+2024-10-30 18:55:57.143943,2602.44,IKEA,Gadget purchase,Shopping
+2024-09-17 07:30:48.065281,160.6,Giant,Household items,Groceries
+2025-06-25 13:53:11.738147,7.72,Caltex,Airport transfer,Transport
+2025-05-19 12:03:37.019542,214.19,Digi,Electricity bill,Bills & Utilities
+2025-04-23 07:20:00.852615,11.93,Celcom,Streaming service,Bills & Utilities
+2024-12-29 01:29:30.739153,543.27,Genting SkyWorlds,Video game subscription,Entertainment
+2024-08-19 19:40:57.818633,238.42,AEON,Toiletries,Groceries
+2025-01-18 22:32:50.933270,3506.42,Apple Store,Gadget purchase,Shopping
+2025-07-19 12:12:04.032238,14.36,Village Grocer,Bulk buying,Groceries
+2024-10-20 22:11:22.713518,41.97,Watsons,Over-the-counter meds,Health
+2024-09-02 08:39:08.092761,42.83,Naiise,Team lunch,Food & Drink
+2025-07-08 09:30:31.157416,442.78,GSC Cinemas,Family outing,Entertainment
+2025-01-16 16:18:36.968923,196.48,Digi,Mobile postpaid,Bills & Utilities
+2024-11-21 20:40:42.520129,12.07,Domino's Pizza,Weekend brunch,Food & Drink
+2025-03-25 05:14:36.997680,251.16,Unifi,Music streaming,Bills & Utilities
+2024-10-19 10:23:55.288931,7306.81,Harvey Norman,Shopping at mall,Shopping
+2024-11-29 09:34:30.603519,390.0,Unifi,Monthly subscription,Bills & Utilities
+2025-06-10 23:58:34.610562,106.01,Sushi King,Ice cream treat,Food & Drink
+2025-07-08 01:35:51.620258,3363.78,Courts Mammoth,Furniture purchase,Shopping
+2025-04-10 05:12:03.033516,84.87,Gong Cha,Team lunch,Food & Drink
+2025-05-24 23:41:38.031031,9364.04,Sunway Pyramid,Home decor,Shopping
+2025-01-05 02:49:40.254602,400.26,Sunway Lagoon,Theme park tickets,Entertainment
+2025-07-31 09:56:25.974202,33.62,Pizza Hut,Weekend brunch,Food & Drink
+2024-08-08 00:57:17.262915,8154.27,BookXcess,Online order,Shopping
+2025-02-08 09:22:43.718064,159.35,Watsons,Over-the-counter meds,Health
+2024-11-06 13:41:49.931231,98.33,Village Grocer,Fresh produce,Groceries
+2025-04-25 22:42:34.531427,443.21,Genting SkyWorlds,Weekend movie,Entertainment
+2025-07-02 04:52:38.926741,32.42,YouTube Premium,Music streaming,Bills & Utilities
+2024-10-03 01:38:20.242803,13.04,Celcom,Cable TV subscription,Bills & Utilities
+2025-01-16 05:33:28.806205,321.73,GSC Cinemas,Theme park tickets,Entertainment
+2024-08-30 15:51:12.709904,370.72,Checkers Hypermarket,Dairy and eggs,Groceries
+2025-01-07 19:05:15.187660,172.84,Genting SkyWorlds,Family outing,Entertainment
+2024-12-22 01:32:13.863076,74.34,GrabCar,Bus fare,Transport
+2025-01-15 22:16:21.009223,6.49,Grab,Ride to work,Transport
+2025-05-25 03:02:07.340792,547.15,Genting SkyWorlds,Weekend movie,Entertainment
+2024-12-20 11:34:23.132166,518.03,Alpro Pharmacy,Gym membership,Health
+2025-03-28 11:28:25.257605,80.63,Secret Recipe,Dinner takeout,Food & Drink
+2025-02-12 10:11:19.684479,1575.25,Padini,Home decor,Shopping
+2024-10-15 19:22:53.601775,6136.57,Mr. D.I.Y.,Home decor,Shopping
+2025-02-09 20:48:06.230384,184.22,Pantai Hospital,Health screening,Health
+2025-01-31 05:31:30.359462,399.16,Giant,Restocking pantry,Groceries
+2024-08-20 19:07:48.276929,52.32,Secret Recipe,Supper,Food & Drink
+2024-11-28 14:16:22.039247,149.79,KFC,Weekend brunch,Food & Drink
+2025-02-21 16:16:12.721198,884.92,Mr. D.I.Y.,Stationery supplies,Shopping
+2025-01-25 07:32:36.830689,150.96,Steam Games,Movie tickets,Entertainment
+2025-06-05 03:04:19.518478,6.69,Gong Cha,Quick bite,Food & Drink
+2024-10-25 16:08:58.624850,372.94,Checkers Hypermarket,Beverages and snacks,Groceries
+2025-02-08 06:05:01.094843,727.58,Sunway Medical Centre,Gym membership,Health
+2025-07-04 17:30:50.373885,399.29,Disney+ Hotstar,Sewerage bill,Bills & Utilities
+2025-07-24 14:32:17.466799,46.55,GrabCar,Bus fare,Transport
+2025-05-22 00:56:01.664048,116.34,The Alley,Ice cream treat,Food & Drink
+2024-11-22 21:29:53.961854,99.09,Checkers Hypermarket,Weekly groceries,Groceries
+2025-01-15 23:02:33.323079,6148.84,Shopee,Gift for friend,Shopping
+2025-03-07 04:56:35.083030,564.02,Lazada,Stationery supplies,Shopping
+2024-12-17 02:39:54.960243,99.21,Gong Cha,Ice cream treat,Food & Drink
+2025-07-21 04:38:22.541457,89.35,Setel,Toll payment,Transport
+2024-09-02 00:34:29.725135,67.34,LRT Kelana Jaya,Airport transfer,Transport
+2024-12-21 14:59:05.779695,167.32,Giant,Dairy and eggs,Groceries
+2025-01-06 00:54:31.888725,556.9,Watsons,Gym membership,Health
+2025-06-25 04:26:47.354836,412.79,TIME Internet,Streaming service,Bills & Utilities
+2024-10-01 20:22:12.371599,263.57,Tenaga Nasional,Sewerage bill,Bills & Utilities
+2025-07-05 07:36:46.794252,355.69,Alpro Pharmacy,Health screening,Health
+2025-06-14 23:16:36.121287,176.88,Celcom,Gas bill,Bills & Utilities
+2025-02-26 11:22:09.634301,45.89,Burger King,Business lunch,Food & Drink
+2024-12-28 10:53:05.438613,69.91,KLIA Ekspres,Airport transfer,Transport
+2024-09-01 11:17:32.326220,111.43,Petronas,Car rental,Transport
+2024-08-06 18:14:54.342323,388.54,Pantai Hospital,Skincare products,Health
+2024-12-03 01:37:28.036077,68.32,Gong Cha,Supper,Food & Drink
+2025-05-13 02:28:46.445027,351.68,Maxis,Cable TV subscription,Bills & Utilities
+2025-06-08 16:06:53.852640,3688.18,H&M,Stationery supplies,Shopping
+2025-01-28 06:34:46.261933,88.7,Ticketmaster,Video game subscription,Entertainment
+2025-07-05 12:10:00.148361,112.48,Unifi,Water bill,Bills & Utilities
+2025-05-03 21:32:16.942643,444.47,PlayStation Store,Movie tickets,Entertainment
+2024-10-18 00:50:07.506535,59.1,McDonald's,Healthy smoothie,Food & Drink
+2024-08-06 16:39:44.847607,137.2,Celcom,Sewerage bill,Bills & Utilities
+2025-06-12 01:10:21.627011,531.27,GSC Cinemas,Online game purchase,Entertainment
+2025-02-14 14:16:58.884819,489.4,Redbox Karaoke,In-game purchase,Entertainment
+2025-02-06 20:06:11.721103,74.65,Shell,Fuel top-up,Transport
+2025-02-03 09:19:02.178387,570.53,TGV Cinemas,Live event,Entertainment
+2024-10-26 07:14:17.075514,93.26,KLIA Transit,Ride to work,Transport
+2025-06-28 15:48:18.942474,748.9,Padini,Online order,Shopping
+2025-01-01 10:59:15.937934,528.32,Pantai Hospital,Gym membership,Health
+2025-04-24 17:48:05.851896,36.41,myNEWS,Weekly groceries,Groceries
+2024-09-09 00:38:04.795272,109.39,KLIA Transit,Train ticket,Transport
+2025-03-01 15:37:47.101677,103.58,Petronas,Airport transfer,Transport
+2024-12-31 20:24:40.207926,233.04,Econsave,Organic food purchase,Groceries
+2025-07-12 09:48:34.468719,45.06,Caltex,Ride to work,Transport
+2025-05-28 19:48:14.836743,88.06,KFC,Dessert,Food & Drink
+2025-01-14 08:44:38.330464,56.47,KLIA Transit,Toll payment,Transport
+2025-01-26 13:51:36.391597,747.57,BIG Pharmacy,Over-the-counter meds,Health
+2024-09-16 02:39:59.561890,282.89,TGV Cinemas,Movie tickets,Entertainment
+2024-09-25 10:37:46.978073,272.25,Tenaga Nasional,Streaming service,Bills & Utilities
+2025-03-27 20:36:43.630198,246.76,Ticketmaster,Theme park tickets,Entertainment
+2024-10-29 07:16:46.905407,7288.93,Mr. D.I.Y.,Skincare haul,Shopping
+2024-11-10 08:02:24.563530,377.66,Genting SkyWorlds,Concert tickets,Entertainment
+2025-08-02 08:21:51.168328,60.81,Petronas,Public transport pass,Transport
+2024-08-24 15:14:42.957457,59.63,Sushi King,Dinner takeout,Food & Drink
+2025-05-15 10:13:46.739145,301.59,YouTube Premium,Sewerage bill,Bills & Utilities
+2025-05-05 03:22:34.601322,222.27,Genting SkyWorlds,Theme park tickets,Entertainment
+2024-11-02 13:54:55.709925,30.11,GoCar,Parking fee,Transport
+2024-10-31 10:17:19.799128,554.97,GSC Cinemas,Online game purchase,Entertainment
+2025-04-21 17:30:58.662673,522.46,Redbox Karaoke,Family outing,Entertainment
+2025-02-08 18:49:52.861568,325.24,Audible,Phone bill,Bills & Utilities
+2025-03-25 22:29:13.828774,68.52,Gong Cha,Healthy smoothie,Food & Drink
+2025-04-07 08:52:59.615967,479.63,Genting SkyWorlds,In-game purchase,Entertainment
+2024-09-12 19:21:29.448186,61.45,Subway,Supper,Food & Drink
+2025-05-21 14:26:16.758121,114.88,Genting SkyWorlds,Weekend movie,Entertainment
+2025-05-25 22:39:26.484723,237.98,YouTube Premium,Mobile postpaid,Bills & Utilities
+2025-04-11 12:37:53.281947,416.78,Fitness First,First aid supplies,Health
+2024-10-09 07:20:35.195342,9826.19,BookXcess,Skincare haul,Shopping
+2025-07-08 22:00:23.905024,338.61,Cold Storage,Toiletries,Groceries
+2025-07-06 12:27:29.706812,2625.16,Apple Store,Book purchase,Shopping
+2025-05-31 22:51:54.984912,62.57,KLIA Ekspres,Parking fee,Transport
+2025-05-07 11:25:47.054316,281.9,Disney+ Hotstar,Gas bill,Bills & Utilities
+2024-10-13 21:39:45.215572,1630.4,Sephora,Appliance upgrade,Shopping
+2024-12-25 23:40:16.149750,387.55,Anytime Fitness,Vitamins purchase,Health
+2025-01-06 09:55:15.738205,205.55,TGV Cinemas,Family outing,Entertainment
+2025-04-24 09:51:42.026534,73.93,Shell,Public transport pass,Transport
+2024-08-20 07:41:43.917613,35.32,Starbucks,Supper,Food & Drink
+2024-09-28 02:55:59.440095,52.52,Klinik Mediviron,Dental check-up,Health
+2024-09-13 17:12:42.835424,60.87,Caring Pharmacy,Prescription medicine,Health
+2025-04-20 15:07:15.175086,259.7,BMS Organics,Dairy and eggs,Groceries
+2024-11-05 17:54:30.384993,294.12,Disney+ Hotstar,Music streaming,Bills & Utilities
+2024-12-02 09:39:01.779618,96.95,Subway,Morning coffee,Food & Drink
+2024-09-05 07:15:04.134718,57.9,Subway,Ice cream treat,Food & Drink
+2025-07-07 05:14:51.216049,143.3,PappaRich,Lunch with colleagues,Food & Drink
+2024-09-03 15:58:49.707317,233.88,BMS Organics,Beverages and snacks,Groceries
+2024-11-12 01:59:10.729971,344.79,GSC Cinemas,Concert tickets,Entertainment
+2025-03-05 10:27:51.249516,5285.36,Sunway Pyramid,Home decor,Shopping
+2024-09-20 15:08:14.628637,39.95,LRT Kelana Jaya,Road trip fuel,Transport
+2024-11-25 09:10:09.709061,187.27,AEON,Buying snacks,Groceries
+2025-03-01 07:03:57.716494,214.79,TIME Internet,Music streaming,Bills & Utilities
+2025-05-03 02:51:07.703754,4027.26,Zalora,Gift for friend,Shopping
+2024-12-26 17:25:11.027095,373.96,Sunway Lagoon,In-game purchase,Entertainment
+2025-04-07 02:41:22.503227,3802.35,Harvey Norman,Stationery supplies,Shopping
+2025-06-02 00:53:05.973742,223.15,TGV Cinemas,In-game purchase,Entertainment
+2025-02-06 19:24:47.035194,283.37,Anytime Fitness,Specialist consultation,Health
+2024-09-13 01:53:09.934305,456.73,TGV Cinemas,Online game purchase,Entertainment
+2025-07-08 05:39:25.114371,168.82,Redbox Karaoke,Theme park tickets,Entertainment
+2025-01-05 10:31:53.319406,332.45,Village Grocer,Restocking pantry,Groceries
+2025-06-02 17:20:09.096553,7.31,LRT Kelana Jaya,Public transport pass,Transport
+2024-09-21 15:42:57.672801,79.29,myNEWS,Restocking pantry,Groceries
+2024-11-18 02:11:19.946817,5548.25,Padini,Shopping at mall,Shopping
+2024-08-17 13:58:00.299495,115.36,PlayStation Store,Magazine subscription,Entertainment
+2025-07-18 17:59:51.148736,9279.53,H&M,Skincare haul,Shopping
+2025-01-18 23:27:05.652625,148.16,FamilyMart,Supper,Food & Drink
+2025-02-19 17:18:20.230600,220.23,Village Grocer,Weekly groceries,Groceries
+2025-04-28 05:00:50.205389,69.54,Grab,Ride to work,Transport
+2025-05-15 03:18:38.096900,911.81,Mid Valley Megamall,Furniture purchase,Shopping
+2024-11-13 10:38:35.783772,1114.31,Mid Valley Megamall,Gadget purchase,Shopping
+2025-02-05 09:32:38.473199,186.89,Unifi,Cable TV subscription,Bills & Utilities
+2025-02-04 19:09:08.057646,716.57,Pantai Hospital,Dental check-up,Health
+2025-04-06 11:00:14.660017,59.82,iCare Dental,First aid supplies,Health
+2024-08-14 20:18:21.910457,115.74,Touch 'n Go eWallet,Parking fee,Transport
+2025-03-28 19:39:41.188901,95.56,99 Speedmart,Weekly groceries,Groceries
+2025-04-25 09:55:11.004479,4864.55,Popular Bookstore,Electronics purchase,Shopping
+2025-01-27 03:16:05.270031,857.62,Padini,Shopping at mall,Shopping
+2025-07-29 00:34:15.940642,363.15,Fitness First,Prescription medicine,Health
+2024-11-30 02:51:24.563347,54.67,Gong Cha,Dinner takeout,Food & Drink
+2024-09-26 16:44:56.290669,370.77,Lotus's,Household items,Groceries
+2025-03-09 02:05:53.804297,35.64,Sushi King,Business lunch,Food & Drink
+2025-04-14 15:35:28.769192,194.55,myNEWS,Dairy and eggs,Groceries
+2025-05-04 23:11:02.690477,230.66,Watsons,Gym membership,Health
+2024-09-28 13:48:42.446014,69.22,Naiise,Team lunch,Food & Drink
+2025-04-09 04:41:33.831322,34.94,NSK Trade City,Toiletries,Groceries
+2025-04-26 12:41:13.027185,253.08,Jaya Grocer,Dairy and eggs,Groceries
+2024-09-21 05:19:08.439459,8551.85,BookXcess,Electronics purchase,Shopping
+2025-01-27 02:56:38.497772,70.44,Boost Juice,Healthy smoothie,Food & Drink
+2024-10-01 04:35:27.507529,92.83,OldTown White Coffee,Morning coffee,Food & Drink
+2024-10-24 11:38:37.311579,227.1,Astro,Phone bill,Bills & Utilities
+2025-08-01 03:06:10.718381,369.8,Tenaga Nasional,Cable TV subscription,Bills & Utilities
+2025-07-20 03:03:42.486951,524.69,Alpro Pharmacy,First aid supplies,Health
+2025-06-02 22:42:43.298534,239.56,Redbox Karaoke,Concert tickets,Entertainment
+2024-08-18 09:15:52.517804,93.01,Ticketmaster,Live event,Entertainment
+2025-02-28 06:53:49.443378,2538.85,Zalora,Stationery supplies,Shopping
+2025-01-03 07:27:02.791139,723.01,Pantai Hospital,Health screening,Health
+2025-03-02 00:19:48.069865,131.13,Tenaga Nasional,Phone bill,Bills & Utilities
+2024-09-17 02:18:52.871830,101.9,SOCAR,Airport transfer,Transport
+2025-01-05 02:35:20.088573,39.61,Klinik Mediviron,Vitamins purchase,Health
+2024-12-07 22:55:22.855150,2785.19,BookXcess,Home decor,Shopping
+2025-01-21 18:41:21.131257,4763.35,Kinokuniya,Electronics purchase,Shopping
+2024-10-31 05:04:06.806023,353.46,PlayStation Store,Live event,Entertainment
+2024-08-24 10:21:52.097276,115.5,The Alley,Coffee meeting,Food & Drink
+2024-10-05 03:57:43.118146,397.79,Econsave,Toiletries,Groceries
+2024-10-15 19:05:59.829069,88.46,KLIA Ekspres,Airport transfer,Transport
+2025-03-05 15:43:27.081579,351.41,Pantai Hospital,Skincare products,Health
+2024-12-20 06:49:45.925575,84.16,Setel,Train ticket,Transport
+2025-01-17 23:14:57.395411,24.91,KLIA Transit,Train ticket,Transport
+2025-03-17 09:35:08.495255,402.02,TIME Internet,Streaming service,Bills & Utilities
+2024-11-18 08:31:42.084335,162.88,KidZania,Live event,Entertainment
+2024-12-23 08:25:26.894170,108.5,KLIA Transit,Train ticket,Transport
+2025-05-02 21:59:16.270329,275.15,BMS Organics,Weekly groceries,Groceries
+2025-01-24 18:51:22.623490,56.28,MRT,Fuel top-up,Transport
+2024-12-26 21:57:38.120097,191.81,Guardian,Specialist consultation,Health
+2024-08-29 07:31:19.617563,34.96,Secret Recipe,Dessert,Food & Drink
+2025-05-12 03:13:22.521146,97.32,Genting SkyWorlds,Family outing,Entertainment
+2025-05-18 04:59:49.584382,705.14,iCare Dental,Vitamins purchase,Health
+2025-01-22 22:39:49.075618,51.2,Naiise,Business lunch,Food & Drink
+2024-09-03 15:36:13.675028,695.65,Popular Bookstore,Furniture purchase,Shopping
+2025-04-25 11:09:24.414299,487.53,Air Selangor,Streaming service,Bills & Utilities
+2025-05-08 09:07:24.994327,88.97,Waze,E-hailing service,Transport
+2025-06-30 04:06:36.732673,449.28,Watsons,Annual health check,Health
+2025-04-16 18:47:10.816594,289.18,Jaya Grocer,Organic food purchase,Groceries
+2024-10-16 23:59:42.517524,379.46,Village Grocer,Beverages and snacks,Groceries
+2025-02-11 23:45:21.800286,361.57,Celcom,Phone bill,Bills & Utilities
+2024-09-15 12:50:05.296386,91.22,Chatime,Ice cream treat,Food & Drink
+2025-04-29 18:18:10.046702,91.32,Caltex,Train ticket,Transport
+2025-01-03 14:18:51.331960,41.87,Naiise,Weekend brunch,Food & Drink
+2025-04-13 07:36:32.408237,87.84,GrabCar,Ride to work,Transport
+2024-12-10 21:43:30.075907,75.09,Digi,Cloud storage fee,Bills & Utilities
+2025-01-12 15:52:14.956337,486.96,iCare Dental,Annual health check,Health
+2024-10-18 23:42:24.033804,273.32,Steam Games,Magazine subscription,Entertainment
+2024-12-30 21:15:11.431894,391.42,Lotus's,Organic food purchase,Groceries
+2025-06-30 16:30:25.289389,122.16,FamilyMart,Boba tea,Food & Drink
+2024-08-28 20:19:55.418292,172.35,myNEWS,Fresh produce,Groceries
+2025-02-03 02:23:09.731708,17.19,Setel,Fuel top-up,Transport
+2025-04-16 03:59:40.459368,364.88,Cold Storage,Bulk buying,Groceries
+2025-07-24 11:13:25.658821,45.9,Unifi,Electricity bill,Bills & Utilities
+2024-10-26 09:51:02.667303,338.6,BMS Organics,Dairy and eggs,Groceries
+2025-07-18 02:02:03.732479,360.44,Tenaga Nasional,Sewerage bill,Bills & Utilities
+2025-05-17 00:03:58.872491,329.73,Pantai Hospital,Health screening,Health
+2025-05-03 14:29:44.593348,146.91,Zus Coffee,Lunch with colleagues,Food & Drink
+2024-10-28 14:42:33.924819,192.61,BMS Organics,Fresh produce,Groceries
+2025-01-09 22:03:00.218347,136.02,Jaya Grocer,Beverages and snacks,Groceries
+2025-03-16 15:18:50.729997,24.93,Caltex,Car rental,Transport
+2024-11-03 22:05:55.706251,125.82,Sunway Medical Centre,Annual health check,Health
+2025-06-25 14:39:08.106875,324.19,TIME Internet,Electricity bill,Bills & Utilities
+2025-05-12 11:44:15.530639,73.14,GoCar,Toll payment,Transport
+2025-02-16 05:45:02.218220,401.54,TIME Internet,Water bill,Bills & Utilities
+2024-09-01 17:22:58.171151,171.23,Ticketmaster,Theme park tickets,Entertainment
+2025-06-30 06:53:39.552266,528.77,Steam Games,Concert tickets,Entertainment
+2025-03-05 13:47:57.385998,20.72,LRT Kelana Jaya,Car rental,Transport
+2024-10-25 22:26:55.549672,68.21,Guardian,Specialist consultation,Health
+2025-05-25 05:24:53.294377,54.54,Pizza Hut,Dinner takeout,Food & Drink
+2025-05-07 01:39:31.182434,53.72,Sushi King,Quick bite,Food & Drink
+2025-05-06 04:55:47.658319,242.74,AEON,Fresh produce,Groceries
+2024-10-07 03:52:23.343740,236.04,Econsave,Dairy and eggs,Groceries
+2024-10-16 00:46:06.440227,5184.31,Uniqlo,Fashion accessories,Shopping
+2025-01-18 14:20:47.979318,175.68,KidZania,In-game purchase,Entertainment
+2024-11-02 22:01:38.036872,120.97,Gong Cha,Weekend brunch,Food & Drink
+2025-04-19 17:00:16.137704,164.85,Maxis,Streaming service,Bills & Utilities
+2024-10-28 20:53:09.869308,66.36,Nando's,Morning coffee,Food & Drink
+2024-12-15 00:21:27.988660,107.94,PlayStation Store,In-game purchase,Entertainment
+2025-05-15 06:19:34.762631,213.48,Village Grocer,Baking supplies,Groceries
+2024-12-05 08:28:59.164751,29.31,Setel,Car rental,Transport
+2025-03-30 19:25:55.336004,72.4,KLIA Transit,Train ticket,Transport
+2024-11-28 03:59:23.400120,337.88,GSC Cinemas,Magazine subscription,Entertainment
+2025-02-28 00:41:06.968091,99.8,Tealive,Supper,Food & Drink
+2024-08-20 17:07:25.230959,1745.3,Shopee,Shopping at mall,Shopping
+2024-12-01 16:34:33.603340,625.17,iCare Dental,Gym membership,Health
+2025-01-27 16:43:01.970787,99.42,Caltex,Bus fare,Transport
+2025-05-17 14:45:15.024618,95.34,MyCar,Train ticket,Transport
+2025-03-26 05:12:38.770196,101.36,Pizza Hut,Dinner takeout,Food & Drink
+2025-06-14 10:30:46.511336,9365.15,Lazada,Shopping at mall,Shopping
+2025-04-08 16:03:55.063203,407.46,Sunway Lagoon,Karaoke session,Entertainment
+2025-04-21 19:56:39.423470,23.65,Genting SkyWorlds,Theme park tickets,Entertainment
+2025-02-06 00:17:58.373160,304.82,Netflix,Water bill,Bills & Utilities
+2024-09-12 05:54:01.399230,214.6,GSC Cinemas,Movie tickets,Entertainment
+2025-01-18 03:13:48.469662,25.04,BMS Organics,Baking supplies,Groceries
+2025-05-12 14:31:22.206304,209.87,Giant,Bulk buying,Groceries
+2025-01-29 15:24:30.863836,337.29,TGV Cinemas,Theme park tickets,Entertainment
+2024-10-17 16:45:28.937550,201.36,Anytime Fitness,Gym membership,Health
+2025-06-03 21:19:52.090087,318.06,AEON,Household items,Groceries
+2024-09-18 07:55:11.154956,300.26,Econsave,Buying snacks,Groceries
+2025-02-22 16:26:09.990721,33.1,Cold Storage,Dairy and eggs,Groceries
+2024-11-15 11:26:59.395583,23.93,GSC Cinemas,Movie tickets,Entertainment
+2024-10-22 06:36:43.416601,593.55,PlayStation Store,Magazine subscription,Entertainment
+2025-05-09 21:50:35.662343,93.3,Steam Games,Concert tickets,Entertainment
+2024-12-17 23:12:59.848542,17.26,Lotus's,Household items,Groceries
+2024-09-15 05:01:29.831308,282.78,Jaya Grocer,Organic food purchase,Groceries
+2024-08-10 13:03:39.374828,302.33,Redbox Karaoke,Video game subscription,Entertainment
+2024-10-23 21:10:12.329721,412.54,Mid Valley Megamall,Book purchase,Shopping
+2025-05-13 04:48:15.265998,9842.73,Sephora,Shopping at mall,Shopping
+2025-02-18 04:21:01.337800,326.91,myNEWS,Bulk buying,Groceries
+2025-05-14 22:08:34.524008,131.0,KFC,Dinner takeout,Food & Drink
+2025-05-09 11:02:36.925972,157.61,Audible,Audiobook credit,Bills & Utilities
+2024-12-17 05:17:39.163470,168.34,Guardian,Prescription medicine,Health
+2025-03-12 13:54:10.229850,593.54,KidZania,Theme park tickets,Entertainment
+2024-08-18 01:20:48.564106,84.55,iCare Dental,Skincare products,Health
+2025-03-06 04:42:06.977680,520.64,Guardian,Dental check-up,Health
+2024-08-17 07:44:47.076357,75.42,SOCAR,Airport commute,Transport
+2025-07-24 01:10:06.431963,108.69,Redbox Karaoke,Live event,Entertainment
+2024-08-18 01:47:34.977355,230.71,BMS Organics,Weekly groceries,Groceries
+2025-03-22 01:04:06.197050,3180.31,Lazada,Fashion accessories,Shopping
+2025-06-13 18:04:06.956146,171.83,Unifi,Cloud storage fee,Bills & Utilities
+2025-04-15 00:23:01.845547,213.24,Guardian,Vitamins purchase,Health
+2025-06-28 05:22:51.692887,286.53,Indah Water Konsortium,Music streaming,Bills & Utilities
+2024-09-08 09:32:24.041794,569.6,GSC Cinemas,Movie tickets,Entertainment
+2025-06-03 19:27:21.857327,554.87,GSC Cinemas,Online game purchase,Entertainment
+2024-10-06 20:39:17.394536,133.21,Audible,Phone bill,Bills & Utilities
+2025-06-28 14:42:17.966293,678.39,Watsons,Gym membership,Health
+2024-08-13 09:07:22.582386,32.69,Caltex,Parking fee,Transport
+2025-07-16 21:50:12.578588,251.48,Pantai Hospital,Annual health check,Health
+2024-08-06 21:10:55.389725,8844.82,H&M,Furniture purchase,Shopping
+2024-12-28 18:25:14.265126,78.9,KLIA Ekspres,Train ticket,Transport
+2024-09-21 03:05:25.188597,562.39,iCare Dental,Health screening,Health
+2024-09-19 21:20:16.090827,497.94,Digi,Audiobook credit,Bills & Utilities
+2025-02-11 06:44:51.480216,727.28,Anytime Fitness,Doctor's visit,Health
+2024-11-30 01:57:52.092053,2775.58,Zara,Sporting goods,Shopping
+2024-09-28 13:16:43.766852,7341.37,Zara,New clothes,Shopping
+2024-09-29 05:22:30.225014,390.61,Steam Games,Movie tickets,Entertainment
+2025-04-27 15:26:26.998170,291.73,Maxis,Music streaming,Bills & Utilities
+2025-01-01 16:40:17.729679,112.73,Setel,Public transport pass,Transport
+2025-01-21 20:34:38.700597,160.75,Astro,Gas bill,Bills & Utilities
+2024-09-28 20:57:41.598318,544.85,Watsons,Doctor's visit,Health
+2025-03-25 00:18:14.031688,123.72,YouTube Premium,Internet bill,Bills & Utilities
+2025-01-29 01:09:58.264599,290.0,Celcom,Cloud storage fee,Bills & Utilities
+2024-10-25 16:09:50.775398,347.0,Alpro Pharmacy,Annual health check,Health
+2025-05-29 00:15:30.125454,65.64,KLIA Transit,Ride to work,Transport
+2024-08-19 23:28:57.175033,355.01,Village Grocer,Restocking pantry,Groceries
+2025-02-21 22:39:22.845880,78.62,MRT,E-hailing service,Transport
+2024-11-11 07:44:16.008341,3358.41,Decathlon,Sporting goods,Shopping
+2024-10-31 06:05:18.131457,85.07,Setel,Ride to work,Transport
+2025-07-10 19:18:58.788174,38.27,Touch 'n Go eWallet,Airport transfer,Transport
+2025-02-26 23:32:54.605083,216.89,Genting SkyWorlds,Movie tickets,Entertainment
+2025-02-24 21:24:48.067945,312.87,iCare Dental,Specialist consultation,Health
+2024-10-21 01:04:24.542102,8298.38,Sunway Pyramid,New clothes,Shopping
+2024-08-18 12:44:28.425929,277.45,Lotus's,Bulk buying,Groceries
+2025-05-31 07:22:13.136906,256.43,99 Speedmart,Buying snacks,Groceries
+2024-11-21 07:32:17.960085,284.28,Giant,Beverages and snacks,Groceries
+2025-05-13 14:57:45.224721,470.85,Genting SkyWorlds,Movie tickets,Entertainment
+2025-06-12 07:39:45.881775,163.57,Giant,Bulk buying,Groceries
+2024-12-10 12:20:10.014014,136.19,Burger King,Team lunch,Food & Drink
+2024-11-05 14:52:53.024457,103.53,Waze,Airport transfer,Transport
+2025-06-18 18:33:35.542878,32.49,GrabCar,Car rental,Transport
+2025-01-22 08:33:15.441966,116.45,AirAsia Ride,Ride to work,Transport
+2024-12-02 17:02:23.761405,45.57,Disney+ Hotstar,Audiobook credit,Bills & Utilities
+2024-08-14 11:59:28.471616,234.76,Lotus's,Household items,Groceries
+2025-01-01 19:55:57.134955,772.49,Watsons,First aid supplies,Health
+2024-11-01 06:58:43.974247,197.93,Tenaga Nasional,Streaming service,Bills & Utilities
+2025-01-28 04:23:02.890990,72.78,Petronas,Airport transfer,Transport
+2024-12-25 15:28:34.858278,391.5,GSC Cinemas,Movie tickets,Entertainment
+2024-12-16 22:22:55.116144,696.13,Guardian,First aid supplies,Health
+2024-10-10 16:41:52.246570,1272.71,Shopee,Gift for friend,Shopping
+2025-04-27 14:36:54.327320,401.01,Redbox Karaoke,Concert tickets,Entertainment
+2025-03-24 14:25:52.555949,454.38,Ticketmaster,Karaoke session,Entertainment
+2025-01-01 01:49:36.703200,210.73,Redbox Karaoke,Concert tickets,Entertainment
+2025-05-27 14:21:59.014144,71.76,Domino's Pizza,Lunch with colleagues,Food & Drink
+2024-08-28 21:06:16.030775,143.85,TGV Cinemas,In-game purchase,Entertainment
+2024-10-25 15:46:42.035553,27.8,AirAsia Ride,Fuel top-up,Transport
+2025-07-24 14:59:33.512260,183.79,TGV Cinemas,Theme park tickets,Entertainment
+2025-03-21 08:03:13.962800,368.73,Village Grocer,Baking supplies,Groceries
+2024-10-01 15:34:15.185099,435.01,Indah Water Konsortium,Water bill,Bills & Utilities
+2024-12-02 00:51:45.800813,148.08,Fitness First,Over-the-counter meds,Health
+2025-07-15 04:12:55.220760,27.86,Zus Coffee,Weekend brunch,Food & Drink
+2025-03-12 13:50:09.736948,670.22,H&M,Electronics purchase,Shopping
+2024-11-05 04:18:31.441593,423.32,Redbox Karaoke,Movie tickets,Entertainment
+2025-05-13 23:44:36.954342,4085.52,Mr. D.I.Y.,Sporting goods,Shopping
+2025-03-22 17:13:29.208927,341.99,myNEWS,Baking supplies,Groceries
+2025-06-27 17:08:55.086488,6128.72,Sephora,Gift for friend,Shopping
+2024-11-26 09:01:51.134016,2900.28,Zalora,Sporting goods,Shopping
+2024-10-08 13:41:06.201273,317.34,Audible,Phone bill,Bills & Utilities
+2025-06-11 22:14:40.683913,25.8,GoCar,Fuel top-up,Transport
+2025-04-30 04:23:53.431453,391.5,YouTube Premium,Streaming service,Bills & Utilities
+2024-10-12 22:34:20.226135,592.95,Sunway Lagoon,Online game purchase,Entertainment
+2024-11-01 23:42:06.774822,42.72,Giant,Fresh produce,Groceries
+2025-06-17 16:51:14.987274,30.73,Air Selangor,Mobile postpaid,Bills & Utilities
+2024-10-24 17:25:06.613322,1920.9,H&M,New clothes,Shopping
+2025-03-23 13:24:24.423225,50.68,99 Speedmart,Baking supplies,Groceries
+2024-10-20 06:05:57.117869,403.5,GSC Cinemas,In-game purchase,Entertainment
+2025-01-03 19:36:55.069737,116.9,Nando's,Boba tea,Food & Drink
+2025-05-12 05:33:46.933935,8.5,SOCAR,Car rental,Transport
+2024-12-02 16:05:58.508765,85.6,Spotify,Water bill,Bills & Utilities
+2025-06-08 04:28:25.031986,109.69,Lotus's,Buying snacks,Groceries
+2024-09-29 17:10:34.338409,122.66,Tealive,Dinner takeout,Food & Drink
+2024-11-07 11:45:31.353217,80.06,Touch 'n Go eWallet,Parking fee,Transport
+2024-11-23 01:23:14.576281,115.54,Naiise,Boba tea,Food & Drink
+2024-11-06 22:24:21.183291,85.04,McDonald's,Weekend brunch,Food & Drink
+2024-09-21 05:05:32.251491,20.6,Astro,Electricity bill,Bills & Utilities
+2025-03-24 04:41:45.605828,426.07,iCare Dental,First aid supplies,Health
+2025-07-06 22:45:29.337417,317.19,Lotus's,Weekly groceries,Groceries
+2025-05-12 05:10:25.176674,126.8,Unifi,Cable TV subscription,Bills & Utilities
+2024-09-01 12:50:30.262296,9697.1,Decathlon,Sporting goods,Shopping
+2024-09-04 14:01:13.321766,68.2,Netflix,Phone bill,Bills & Utilities
+2024-09-29 12:40:20.128671,6482.84,Courts Mammoth,Electronics purchase,Shopping
+2025-07-24 00:49:13.349037,409.98,Celcom,Cable TV subscription,Bills & Utilities
+2024-09-06 20:26:23.959242,51.52,KFC,Dessert,Food & Drink
+2025-03-23 23:36:19.603104,57.57,Cold Storage,Household items,Groceries
+2025-06-22 22:17:30.140337,588.87,Steam Games,In-game purchase,Entertainment
+2025-06-21 03:52:59.563118,27.49,AEON,Weekly groceries,Groceries
+2024-09-22 01:25:18.575210,8207.51,Harvey Norman,Skincare haul,Shopping
+2025-03-30 11:01:11.354731,58.41,Secret Recipe,Boba tea,Food & Drink
+2025-04-25 14:15:56.748258,84.05,GSC Cinemas,Live event,Entertainment
+2025-04-01 20:40:05.077233,88.84,Secret Recipe,Coffee meeting,Food & Drink
+2025-05-18 14:53:25.099136,131.61,Village Grocer,Bulk buying,Groceries
+2024-08-19 22:02:34.331354,227.75,Klinik Mediviron,Skincare products,Health
+2025-03-03 23:16:35.563456,214.1,Caring Pharmacy,Over-the-counter meds,Health
+2025-07-24 18:25:21.292387,277.38,Genting SkyWorlds,In-game purchase,Entertainment
+2025-07-27 10:52:10.525279,34.74,KLIA Ekspres,Airport transfer,Transport
+2025-04-06 04:36:36.740609,13.99,MyCar,Public transport pass,Transport
+2025-01-01 03:36:40.086972,547.89,BIG Pharmacy,Skincare products,Health
+2024-10-22 23:18:54.835494,263.29,Sunway Lagoon,Video game subscription,Entertainment
+2024-11-21 18:49:28.021089,72.42,McDonald's,Business lunch,Food & Drink
+2025-03-19 11:35:26.630908,4846.08,Sephora,Home decor,Shopping
+2024-10-04 20:32:52.978925,113.0,NSK Trade City,Fresh produce,Groceries
+2024-08-10 10:51:55.074333,31.97,MyCar,Car rental,Transport
+2025-04-03 18:34:14.330343,5250.17,Padini,Appliance upgrade,Shopping
+2024-11-07 22:42:15.379879,280.07,Alpro Pharmacy,First aid supplies,Health
+2025-01-02 05:40:14.310265,213.16,Pantai Hospital,Annual health check,Health
+2025-06-20 01:15:25.157285,8096.84,Sunway Pyramid,Fashion accessories,Shopping
+2025-06-26 11:49:42.051014,162.32,Disney+ Hotstar,Monthly subscription,Bills & Utilities
+2025-02-21 10:55:28.566297,77.65,Pizza Hut,Ice cream treat,Food & Drink
+2025-01-09 23:31:49.818655,286.28,Village Grocer,Dairy and eggs,Groceries
+2025-01-19 20:18:57.880715,28.49,LRT Kelana Jaya,Road trip fuel,Transport
+2025-05-18 07:43:00.290667,237.39,Lotus's,Organic food purchase,Groceries
+2025-01-25 20:55:06.642687,11.85,Indah Water Konsortium,Water bill,Bills & Utilities
+2025-02-08 05:23:03.828642,51.0,Astro,Phone bill,Bills & Utilities
+2025-06-09 14:30:58.721797,530.56,Genting SkyWorlds,Movie tickets,Entertainment
+2024-10-18 05:27:44.427249,75.78,Indah Water Konsortium,Electricity bill,Bills & Utilities
+2025-01-18 18:29:30.135929,61.88,Chatime,Weekend brunch,Food & Drink
+2025-05-01 23:13:39.011546,2212.13,Kinokuniya,Appliance upgrade,Shopping
+2024-10-16 03:05:01.004918,420.75,Genting SkyWorlds,Video game subscription,Entertainment
+2025-07-25 20:12:53.764280,43.75,iCare Dental,Dental check-up,Health
+2025-04-30 19:45:46.835110,219.74,Fitness First,Health screening,Health
+2024-10-03 01:39:14.160952,287.66,Disney+ Hotstar,Water bill,Bills & Utilities
+2024-11-14 09:38:49.126313,449.6,Netflix,Cloud storage fee,Bills & Utilities
+2025-07-12 07:22:38.806896,254.58,Astro,Audiobook credit,Bills & Utilities
+2025-02-24 14:20:18.826424,61.13,Grab,Airport transfer,Transport
+2025-08-03 18:13:00.954846,50.63,The Alley,Dinner takeout,Food & Drink
+2025-02-06 09:21:28.434283,370.95,NSK Trade City,Baking supplies,Groceries
+2025-03-31 14:58:48.197506,101.14,MRT,Car rental,Transport
+2025-02-18 18:19:25.193781,187.25,KidZania,Video game subscription,Entertainment
+2024-09-11 03:54:44.077472,720.51,BIG Pharmacy,Specialist consultation,Health
+2024-08-29 17:59:46.923028,748.92,Klinik Mediviron,Vitamins purchase,Health
+2024-09-27 10:24:07.145293,85.05,Digi,Monthly subscription,Bills & Utilities
+2024-12-11 20:17:14.961405,75.92,Chatime,Lunch with colleagues,Food & Drink
+2024-08-14 23:12:58.128614,226.34,GSC Cinemas,Magazine subscription,Entertainment
+2024-10-08 15:32:54.334518,9030.63,Mr. D.I.Y.,Sporting goods,Shopping
+2024-12-22 22:29:44.300097,26.14,NSK Trade City,Restocking pantry,Groceries
+2024-11-10 04:12:57.881353,8427.14,Zara,Appliance upgrade,Shopping
+2025-05-25 04:10:55.091421,1527.48,Lazada,Book purchase,Shopping
+2024-11-28 01:54:53.814443,507.77,iCare Dental,Specialist consultation,Health
+2024-09-13 13:58:42.797890,119.12,Nando's,Healthy smoothie,Food & Drink
+2024-08-17 05:00:46.498486,97.51,Zus Coffee,Coffee meeting,Food & Drink
+2024-10-25 09:27:42.662738,289.25,Anytime Fitness,Gym membership,Health
+2024-12-14 20:56:56.870115,329.58,Anytime Fitness,Gym membership,Health
+2025-03-18 07:04:45.168991,73.17,Caltex,Airport transfer,Transport
+2024-08-29 09:23:06.472847,581.66,BIG Pharmacy,Specialist consultation,Health
+2025-02-17 04:46:46.875190,576.74,Redbox Karaoke,Video game subscription,Entertainment
+2025-01-28 09:51:17.170196,111.18,KLIA Ekspres,Fuel top-up,Transport
+2025-01-18 06:29:10.330615,64.39,AirAsia Ride,Toll payment,Transport
+2024-12-20 12:21:11.919487,36.57,PappaRich,Quick bite,Food & Drink
+2024-08-12 22:32:01.210251,73.93,KLIA Transit,Public transport pass,Transport
+2024-08-18 10:05:12.975749,87.91,99 Speedmart,Buying snacks,Groceries
+2024-10-21 13:38:45.156080,479.26,Celcom,Cloud storage fee,Bills & Utilities
+2024-09-13 18:03:29.563236,66.0,Klinik Mediviron,Health screening,Health
+2024-10-01 23:49:17.968850,98.8,Shell,Road trip fuel,Transport
+2025-02-10 07:46:23.738017,70.1,Pizza Hut,Quick bite,Food & Drink
+2024-10-26 01:48:39.627209,3778.02,BookXcess,Electronics purchase,Shopping
+2025-06-25 12:57:24.343071,273.33,Pantai Hospital,Specialist consultation,Health
+2024-12-12 13:42:05.744988,54.26,GSC Cinemas,Concert tickets,Entertainment
+2025-02-09 16:37:59.491033,8842.73,H&M,Furniture purchase,Shopping
+2024-09-17 11:41:58.905685,117.13,Domino's Pizza,Team lunch,Food & Drink
+2024-09-12 10:19:18.114085,148.05,Burger King,Weekend brunch,Food & Drink
+2024-11-28 14:14:28.336006,43.49,TGV Cinemas,Family outing,Entertainment
+2025-04-10 08:42:55.396177,262.31,GSC Cinemas,In-game purchase,Entertainment
+2024-09-30 17:07:40.525670,3059.28,Lazada,Home decor,Shopping
+2025-07-31 10:27:08.183904,8.66,Waze,Ride to work,Transport
+2025-06-22 21:12:19.527462,389.29,AEON,Dairy and eggs,Groceries
+2024-11-06 06:34:45.572775,200.3,Digi,Phone bill,Bills & Utilities
+2025-03-07 17:42:57.359303,383.8,Econsave,Fresh produce,Groceries
+2025-05-22 10:49:23.142845,262.01,Sunway Medical Centre,Dental check-up,Health
+2025-01-05 00:36:42.170449,402.8,H&M,Skincare haul,Shopping
+2024-10-14 20:30:20.469456,185.09,NSK Trade City,Dairy and eggs,Groceries
+2025-07-31 19:36:10.364832,4477.85,Zalora,Gift for friend,Shopping
+2025-05-10 16:36:14.981515,54.89,AEON,Bulk buying,Groceries
+2025-05-25 23:49:20.726993,174.33,Sunway Medical Centre,Prescription medicine,Health
+2025-03-20 16:13:41.309751,59.56,Domino's Pizza,Weekend brunch,Food & Drink
+2024-10-07 23:07:58.281328,66.75,Tenaga Nasional,Sewerage bill,Bills & Utilities
+2025-04-06 02:44:23.688419,6619.59,Courts Mammoth,Skincare haul,Shopping
+2025-07-20 18:02:29.089364,517.67,Sunway Medical Centre,Health screening,Health
+2025-03-11 17:17:16.968496,91.64,MRT,Fuel top-up,Transport
+2025-03-26 11:26:06.081754,1122.39,BookXcess,Home decor,Shopping
+2024-12-21 04:30:08.292878,38.94,Zus Coffee,Morning coffee,Food & Drink
+2025-03-09 17:54:02.695125,5424.36,Kinokuniya,Fashion accessories,Shopping
+2024-12-21 21:32:49.929006,260.65,Giant,Baking supplies,Groceries
+2025-06-07 02:54:18.867931,211.44,iCare Dental,First aid supplies,Health
+2025-04-26 12:30:09.186382,102.57,KFC,Coffee meeting,Food & Drink
+2025-05-31 00:36:13.937223,476.09,TIME Internet,Streaming service,Bills & Utilities
+2024-09-28 16:15:53.730305,573.26,Decathlon,Home decor,Shopping
+2024-08-13 04:38:25.447843,664.46,Pantai Hospital,Gym membership,Health
+2025-06-14 04:05:48.080289,551.53,Anytime Fitness,Prescription medicine,Health
+2024-11-30 06:31:06.312117,16.82,Nando's,Healthy smoothie,Food & Drink
+2024-10-24 14:49:51.632781,43.98,Ticketmaster,In-game purchase,Entertainment
+2025-05-17 04:21:55.797007,660.86,Caring Pharmacy,Vitamins purchase,Health
+2024-12-06 19:43:27.390179,191.68,Unifi,Cable TV subscription,Bills & Utilities
+2024-12-13 16:29:14.018072,2474.49,H&M,Book purchase,Shopping
+2024-10-17 22:28:35.684246,109.72,Ticketmaster,Online game purchase,Entertainment
+2025-02-05 13:27:33.428222,50.59,Village Grocer,Toiletries,Groceries
+2025-01-23 09:47:57.772988,73.02,FamilyMart,Dessert,Food & Drink
+2024-10-22 09:28:16.075112,109.79,Gong Cha,Quick bite,Food & Drink
+2025-07-09 03:08:46.361544,50.85,Audible,Gas bill,Bills & Utilities
+2025-07-23 17:59:26.201365,210.28,Netflix,Streaming service,Bills & Utilities
+2025-04-06 02:05:27.471871,19.28,FamilyMart,Lunch with colleagues,Food & Drink
+2024-09-23 09:09:12.984577,46.48,PappaRich,Weekend brunch,Food & Drink
+2025-02-13 11:15:51.166772,145.25,Checkers Hypermarket,Weekly groceries,Groceries
+2025-06-08 12:31:42.745009,315.36,Watsons,First aid supplies,Health
+2024-10-12 14:27:38.105380,54.91,Caltex,Road trip fuel,Transport
+2024-11-29 17:38:04.650341,126.78,Ticketmaster,Video game subscription,Entertainment
+2024-09-10 16:20:13.179351,3530.31,Kinokuniya,Home decor,Shopping
+2024-09-26 23:20:03.898554,430.28,Lazada,Book purchase,Shopping
+2024-12-05 06:34:09.493826,17.45,Zus Coffee,Dessert,Food & Drink
+2024-10-15 00:29:00.616542,518.34,TGV Cinemas,Theme park tickets,Entertainment
+2024-10-24 14:00:50.933767,31.5,Genting SkyWorlds,Magazine subscription,Entertainment
+2025-05-27 04:57:58.551037,89.33,GoCar,E-hailing service,Transport
+2025-06-19 10:20:15.727886,130.72,Genting SkyWorlds,Concert tickets,Entertainment
+2025-02-14 08:08:43.283365,112.82,KLIA Transit,Parking fee,Transport
+2024-08-19 04:07:26.326439,239.76,Redbox Karaoke,Online game purchase,Entertainment
+2025-03-01 00:53:46.984356,116.05,Gong Cha,Team lunch,Food & Drink
+2024-09-11 12:05:59.747979,71.17,Nando's,Business lunch,Food & Drink
+2024-09-25 22:31:42.208043,56.0,Village Grocer,Bulk buying,Groceries
+2024-08-20 22:26:13.540685,336.5,Giant,Baking supplies,Groceries
+2024-09-15 14:59:50.892326,107.83,PappaRich,Business lunch,Food & Drink
+2024-10-27 07:37:42.586254,133.55,Econsave,Organic food purchase,Groceries
+2025-06-03 19:32:21.779883,84.16,Waze,Ride to work,Transport
+2025-02-16 06:53:47.629025,7370.59,Zara,Appliance upgrade,Shopping
+2024-10-04 23:20:57.373612,5078.59,Popular Bookstore,Online order,Shopping
+2024-10-27 05:30:38.421599,49.35,Netflix,Monthly subscription,Bills & Utilities
+2025-01-05 11:09:28.317122,240.66,Lotus's,Restocking pantry,Groceries
+2025-04-23 10:36:43.426496,401.6,iCare Dental,Doctor's visit,Health
+2025-04-14 13:17:53.699958,120.28,Starbucks,Healthy smoothie,Food & Drink
+2025-03-17 14:31:45.812450,4898.19,Lazada,Appliance upgrade,Shopping
+2024-09-24 17:03:24.710432,360.18,myNEWS,Bulk buying,Groceries
+2025-03-11 10:59:07.905111,59.43,Shell,Road trip fuel,Transport
+2024-10-07 21:23:33.344880,543.27,PlayStation Store,Movie tickets,Entertainment
+2024-09-17 04:07:55.278270,67.0,McDonald's,Supper,Food & Drink
+2024-11-23 16:04:51.270129,386.64,Checkers Hypermarket,Weekly groceries,Groceries
+2024-12-14 09:47:17.304141,45.97,Unifi,Electricity bill,Bills & Utilities
+2025-01-04 07:18:06.293170,75.3,Guardian,Dental check-up,Health
+2025-03-17 05:20:04.407748,77.09,OldTown White Coffee,Healthy smoothie,Food & Drink
+2025-07-30 18:38:52.488806,388.91,Genting SkyWorlds,Concert tickets,Entertainment
+2024-09-09 21:45:04.704852,94.13,BIG Pharmacy,Specialist consultation,Health
+2024-12-09 15:07:17.795329,209.02,Unifi,Cloud storage fee,Bills & Utilities
+2024-12-24 03:23:55.895976,98.09,SOCAR,Car rental,Transport
+2024-11-14 19:26:45.932183,170.54,BMS Organics,Bulk buying,Groceries
+2025-03-21 23:22:36.384776,323.44,Digi,Music streaming,Bills & Utilities
+2024-10-26 14:06:43.056942,520.54,Watsons,Prescription medicine,Health
+2024-10-22 21:59:46.777204,3793.39,IKEA,Home decor,Shopping
+2025-04-09 13:29:41.905941,439.67,BIG Pharmacy,Vitamins purchase,Health
+2025-03-08 21:54:56.448797,57.83,KFC,Boba tea,Food & Drink
+2025-01-08 12:49:24.590384,3040.39,Zalora,New clothes,Shopping
+2025-06-23 08:34:25.993724,5166.2,H&M,Appliance upgrade,Shopping
+2025-02-07 07:41:21.188880,89.66,Grab,Parking fee,Transport
+2024-11-19 00:07:53.281062,275.32,Genting SkyWorlds,Karaoke session,Entertainment
+2025-02-11 18:37:45.431613,114.4,LRT Kelana Jaya,Airport commute,Transport
+2024-10-05 17:25:54.750693,7663.32,Sunway Pyramid,Gadget purchase,Shopping
+2025-07-29 09:35:31.356908,334.38,Econsave,Buying snacks,Groceries
+2024-12-17 15:21:06.642714,9965.92,IKEA,Skincare haul,Shopping
+2024-09-10 14:53:37.452886,82.94,Shell,Toll payment,Transport
+2024-09-08 23:07:23.361242,9298.64,Kinokuniya,Electronics purchase,Shopping
+2025-01-16 09:45:49.701643,135.93,Chatime,Weekend brunch,Food & Drink
+2025-05-23 17:10:03.763047,234.23,myNEWS,Beverages and snacks,Groceries
+2024-08-22 04:18:04.845335,371.59,Sunway Lagoon,Movie tickets,Entertainment
+2025-01-16 12:08:21.467306,79.84,GSC Cinemas,Concert tickets,Entertainment
+2025-03-01 00:21:39.730306,89.2,Subway,Coffee meeting,Food & Drink
+2024-11-17 02:36:35.106127,9044.23,IKEA,Skincare haul,Shopping
+2024-10-16 15:19:46.233849,394.74,Ticketmaster,Movie tickets,Entertainment
+2025-04-29 06:20:27.344535,7366.4,Courts Mammoth,Appliance upgrade,Shopping
+2024-09-04 14:59:05.360588,227.68,Anytime Fitness,Vitamins purchase,Health
+2025-06-22 14:38:20.771392,2377.75,Decathlon,Online order,Shopping
+2025-03-05 11:47:43.509537,88.51,Tenaga Nasional,Cable TV subscription,Bills & Utilities
+2025-07-01 01:53:14.084992,473.09,Tenaga Nasional,Electricity bill,Bills & Utilities
+2025-05-13 10:51:58.147209,367.28,GSC Cinemas,Concert tickets,Entertainment
+2024-10-08 06:47:46.808923,64.4,GrabCar,Ride to work,Transport
+2025-02-14 06:09:32.006660,94.24,BIG Pharmacy,Doctor's visit,Health
+2024-11-16 03:16:43.981749,485.46,Steam Games,Online game purchase,Entertainment
+2025-07-28 12:26:52.128242,396.7,Indah Water Konsortium,Music streaming,Bills & Utilities
+2025-02-20 01:27:42.232216,478.32,iCare Dental,Prescription medicine,Health
+2024-12-16 07:13:19.031558,480.06,Steam Games,Concert tickets,Entertainment
+2024-09-17 15:48:14.538513,523.85,PlayStation Store,Karaoke session,Entertainment
+2024-10-29 00:26:09.212011,329.78,GSC Cinemas,Live event,Entertainment
+2024-09-24 09:18:32.467693,7199.94,Mid Valley Megamall,Skincare haul,Shopping
+2025-02-17 07:19:18.459779,456.27,PlayStation Store,Live event,Entertainment
+2024-09-06 13:36:01.652592,78.96,KLIA Ekspres,Airport transfer,Transport
+2025-01-06 18:55:40.501499,113.09,The Alley,Morning coffee,Food & Drink
+2025-05-21 16:54:27.721801,10.98,Grab,Train ticket,Transport
+2024-12-12 08:51:51.572199,4231.61,Sephora,Stationery supplies,Shopping
+2024-12-10 20:38:18.722952,2859.15,Lazada,Skincare haul,Shopping
+2025-06-04 14:40:02.473892,353.15,Tenaga Nasional,Cloud storage fee,Bills & Utilities
+2024-09-13 00:45:50.456506,191.54,Klinik Mediviron,First aid supplies,Health
+2025-01-13 07:33:23.447745,45.14,Setel,Public transport pass,Transport
+2024-11-07 11:08:20.492945,279.52,Disney+ Hotstar,Gas bill,Bills & Utilities
+2025-07-18 14:16:30.872145,347.76,Giant,Restocking pantry,Groceries
+2025-05-18 15:51:13.125027,5.74,Chatime,Coffee meeting,Food & Drink
+2025-04-14 22:00:26.683048,8502.65,Zara,Electronics purchase,Shopping
+2025-07-30 11:07:33.301393,3541.61,Zara,Home decor,Shopping
+2025-04-11 13:19:50.423989,409.91,YouTube Premium,Electricity bill,Bills & Utilities
+2025-04-16 07:33:32.508444,67.08,Klinik Mediviron,Skincare products,Health
+2025-01-14 11:05:16.562794,91.94,Watsons,Skincare products,Health
+2025-06-22 11:44:38.299356,202.36,Air Selangor,Cable TV subscription,Bills & Utilities
+2025-01-16 18:51:00.528657,441.83,Alpro Pharmacy,Over-the-counter meds,Health
+2025-07-10 10:39:25.249917,8358.39,IKEA,Electronics purchase,Shopping
+2024-10-12 06:23:32.196699,363.19,Village Grocer,Fresh produce,Groceries
+2024-09-27 22:08:37.704884,295.1,Unifi,Streaming service,Bills & Utilities
+2024-12-29 11:52:28.822855,345.65,Sunway Lagoon,Magazine subscription,Entertainment
+2025-02-16 10:39:47.732605,391.95,Caring Pharmacy,Dental check-up,Health
+2024-12-20 02:37:49.577098,244.84,Steam Games,Family outing,Entertainment
+2024-11-05 14:53:44.449415,288.89,Indah Water Konsortium,Cloud storage fee,Bills & Utilities
+2024-11-18 23:33:46.243907,157.82,Checkers Hypermarket,Beverages and snacks,Groceries
+2025-07-22 00:27:29.066924,167.69,Tenaga Nasional,Phone bill,Bills & Utilities
+2025-07-09 21:37:34.403759,117.14,FamilyMart,Quick bite,Food & Drink
+2024-08-17 01:02:39.462141,461.19,Maxis,Monthly subscription,Bills & Utilities
+2025-05-10 11:53:33.445773,259.04,Econsave,Fresh produce,Groceries
+2024-10-24 21:09:25.427237,149.82,Starbucks,Ice cream treat,Food & Drink
+2025-07-25 00:38:24.979921,250.95,myNEWS,Toiletries,Groceries
+2025-06-26 20:50:04.756969,428.35,Genting SkyWorlds,Magazine subscription,Entertainment
+2024-10-10 08:42:28.816933,116.59,Caltex,Airport transfer,Transport
+2025-01-06 01:50:45.449077,202.67,KidZania,Video game subscription,Entertainment
+2024-10-02 21:27:01.976387,115.18,KFC,Morning coffee,Food & Drink
+2025-02-25 11:48:23.719341,96.97,Shell,Toll payment,Transport
+2025-05-29 22:56:28.709594,7.83,Grab,Ride to work,Transport
+2025-05-21 22:56:01.217931,97.28,KLIA Transit,Bus fare,Transport
+2024-09-18 15:32:44.449348,260.83,myNEWS,Bulk buying,Groceries
+2025-04-21 13:49:20.454799,10.1,KLIA Transit,Fuel top-up,Transport
+2025-02-12 10:32:59.403662,112.21,McDonald's,Lunch with colleagues,Food & Drink
+2024-08-30 19:42:53.669283,143.78,Secret Recipe,Coffee meeting,Food & Drink
+2024-11-25 22:44:24.532403,236.77,iCare Dental,First aid supplies,Health
+2024-10-08 18:00:17.552157,72.72,Burger King,Weekend brunch,Food & Drink
+2025-01-02 20:24:33.588384,7878.58,Mid Valley Megamall,Home decor,Shopping
+2024-08-11 04:49:16.409167,27.29,TIME Internet,Gas bill,Bills & Utilities
+2025-05-01 21:20:57.829783,940.4,Padini,Home decor,Shopping
+2024-12-15 21:42:51.760598,45.62,Domino's Pizza,Weekend brunch,Food & Drink
+2025-03-12 13:01:07.746131,7.27,GoCar,Bus fare,Transport
+2025-02-19 12:30:41.975861,760.14,Klinik Mediviron,Prescription medicine,Health
+2025-03-30 15:52:42.276770,31.94,GoCar,Parking fee,Transport
+2024-10-02 07:46:49.253006,264.18,Indah Water Konsortium,Cable TV subscription,Bills & Utilities
+2025-02-21 09:03:50.311105,126.98,Netflix,Music streaming,Bills & Utilities
+2024-10-24 18:54:10.376165,1135.1,Uniqlo,New clothes,Shopping
+2024-09-01 02:22:35.872896,10.64,MyCar,Bus fare,Transport
+2025-05-23 11:02:57.841646,205.74,Anytime Fitness,Skincare products,Health
+2024-11-09 01:40:29.528562,28.43,McDonald's,Team lunch,Food & Drink
+2024-11-29 01:37:42.951227,118.62,LRT Kelana Jaya,Bus fare,Transport
+2025-04-21 15:33:24.183056,707.33,Alpro Pharmacy,Skincare products,Health
+2025-07-10 23:00:21.492758,15.83,Grab,Car rental,Transport
+2024-08-23 22:31:08.322949,108.3,GrabCar,Parking fee,Transport
+2025-04-11 15:38:02.368846,335.37,Cold Storage,Toiletries,Groceries
+2025-01-30 14:57:55.818683,5723.04,Apple Store,Gadget purchase,Shopping
+2025-07-10 04:12:39.604245,35.83,Guardian,Doctor's visit,Health
+2025-03-29 02:49:00.920582,359.05,Fitness First,Doctor's visit,Health
