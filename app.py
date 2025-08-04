@@ -15,7 +15,7 @@ st.set_page_config(
 # --- 2. App Title and Description ---
 st.title("🧾 Smart Wallet AI System")
 st.write(
-    "Enter transaction details below to get a category prediction from the AI model. Our API is running in the background to serve this app "
+    "Enter transaction details below to get a category prediction from the AI model. This app is powered by a FastAPI backend and a Streamlit frontend, running together in the same process."
 )
 
 # --- 3. Input Boxes for User Data ---
