@@ -1,5 +1,5 @@
 # ==============================================================================
-# Smart Wallet AI - Advanced Model Training Script
+# Smart Wallet AI - Training Script
 # ==============================================================================
 import pandas as pd
 import joblib
