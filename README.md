@@ -48,14 +48,14 @@ You can test the live application here:
 ## 📁 Project Structure
 
 A brief overview of the key files in this project:
-├── generate_data.py          # Script to create the mock transaction dataset.
-├── train.py                  # Script to train and save all three ML models.
-├── main.py                   # The FastAPI backend server for serving models.
-├── streamlit_app.py          # The Streamlit frontend for the user interface.
-├── requirements.txt          # Dependencies for the main application.
-├── Dockerfile                # Configuration for containerized deployment.
-├── transaction_*.joblib      # Saved machine learning models.
-└── mock_transactions.csv     # The generated dataset.
+* generate_data.py          - Script to create the mock transaction dataset.
+* train.py                  - Script to train and save all three ML models.
+* main.py                   - The FastAPI backend server for serving models.
+* app.py                    - The Streamlit frontend for the user interface.
+* requirements.txt          - Dependencies for the main application.
+* Dockerfile                - Configuration for containerized deployment.
+* transaction_classifier_*.joblib      - Saved machine learning models.
+* mock_transactions.csv     - The generated dataset.
 
 ---
 
@@ -81,7 +81,7 @@ This will set up the environment to train the models and run the web app.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/bchoows/smart-wallet-ai.git](https://github.com/bchoows/smart-wallet-ai.git)
+    git clone https://github.com/bchoows/smart-wallet-ai.git
     cd smart-wallet-ai
     ```
 2.  **Create and activate a virtual environment with Python 3.11:**
@@ -104,9 +104,9 @@ This will set up the environment to train the models and run the web app.
     uvicorn main:app --reload
     ```
 6.  **Run the User Interface:**
-    Open a **second terminal** and run the Streamlit frontend:
+    Open a **second terminal** and run Streamlit:
     ```bash
-    streamlit run streamlit_app.py
+    streamlit run app.py
     ```
 
 ---
