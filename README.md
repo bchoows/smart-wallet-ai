@@ -68,13 +68,19 @@ This step is a prerequisite for training the models. The necessary libraries are
 
 1.  **Install data generation libraries:**
     ```bash
-    pip install pandas faker
+    pip install -r data_requirements.txt
     ```
 2.  **Run the script:**
     ```bash
     python generate_data.py
     ```
     This will create the `mock_transactions.csv` file needed for the next steps.
+
+3.  **Train the data:**
+    ```bash
+    python train.py
+    ```
+    This will create the 3 `transaction_classifier_*.joblib` files needed for the next steps. Move the 3 .joblib files to the main folder with the main.py and app.py files.
 
 ### Part 2: Run the Application
 This will set up the environment to train the models and run the web app.
